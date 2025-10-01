@@ -30,7 +30,7 @@
    - `src/app/api/generate-images/route.ts`
    两个路由会在业务逻辑前调用 `enforceUsageLimit`，并把剩余次数 (`remaining`) 回传给前端。
 4. **前端体验**：
-   - Polaroid 编辑器 (`src/components/ai-tool/ai-polaroid-editor.tsx`) 捕获 `402`，使用本地化提示并跳转 Pricing。
+   - sora2 首页 (`src/components/ai-tool/sora2-hero.tsx`) 捕获 `402`，使用本地化提示并跳转 Pricing。
    - 多模型画板 (`src/ai/image/components/ImageGenerator.tsx`) 在错误面板中展示 CTA 按钮，鼓励升级。
 
 ### 调整策略

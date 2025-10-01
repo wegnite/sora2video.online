@@ -680,140 +680,140 @@
     }
   },
   "HomePage": {
-    "title": "AI 宝丽来照片生成器——重现即时怀旧记忆",
-    "description": "用 AI 滤镜、胶片颗粒与故事化模板，几分钟内生成可分享的经典宝丽来美学作品，让每张照片都成为值得珍藏的数字回忆。",
+    "title": "sora2 视频引擎 — 发布团队的电影化自动化",
+    "description": "sora2video.online 将 sora2 电影引擎与引导式 sora prompt 结合，让活动无需返工即可输出成片。",
     "hero": {
-      "badge": "AI 驱动的怀旧体验",
-      "title": "3 分钟制作复古宝丽来",
-      "description": "上传你的照片，AI 自动加上白色边框、胶片颗粒与温暖光感，让数字记忆化身真实的即时成像。无需掌握提示词。",
-      "primaryCta": "打开生成器",
-      "secondaryCta": "浏览模板"
+      "badge": "sora2 电影化启动台",
+      "title": "用 sora2 设计、预览并交付",
+      "description": "将单条 sora prompt 或整本分镜送入 sora 2 引擎。sora2 会在几分钟内渲染光线、声音与剪辑节奏，让市场、创意与管理层保持共识。",
+      "primaryCta": "开启 sora2 体验",
+      "secondaryCta": "浏览 sora prompt"
     },
     "stats": {
-      "title": "创作者为何选择 AI 宝丽来",
+      "title": "发布团队为何信任 sora2",
       "items": [
         {
-          "value": "230 万+",
-          "label": "已生成的 AI 宝丽来照片"
+          "value": "18K+",
+          "label": "已通过 sora2 上线的活动"
         },
         {
-          "value": "14 万",
-          "label": "每天活跃的故事创作者"
+          "value": "65%",
+          "label": "在 sora 2 流水线节省的剪辑工时"
         },
         {
-          "value": "92%",
-          "label": "用户 10 分钟内即分享成品"
+          "value": "9.8",
+          "label": "创作者对 sora2video 的满意度"
         }
       ]
     },
     "features": {
-      "title": "为社交叙事而生",
-      "description": "用最少的操作，把日常瞬间变成值得收藏与分享的情感作品。",
+      "title": "sora2 提供的能力",
+      "description": "每一项功能都围绕 sora prompt、协作与交付节奏设计。",
       "items": [
         {
-          "title": "真实胶片质感",
-          "description": "内置 Kodak Portra、Fujifilm FP-100C、SX-70 以及 Nano Banana 专属风格，一键套用。"
+          "title": "引导式 sora prompt",
+          "description": "内置框架将活动简报转化为结构化 sora prompt，平衡语气、节奏与合规。"
         },
         {
-          "title": "场景感知渲染",
-          "description": "Gemini 自动识别姿态与光线，保留自然肤质，同时叠加梦幻高光与柔焦。"
+          "title": "电影级渲染内核",
+          "description": "sora2 自动优化光线、物理与角色表演，让你在迭代中保持真实质感。"
         },
         {
-          "title": "情绪化提示词",
-          "description": "涵盖明星合影、久别重逢、复古时尚等故事模板，轻松开启创作。"
+          "title": "实时协作",
+          "description": "直接在 sora 2 时间线上审阅与批注，无需导出文件也不会丢版本。"
         },
         {
-          "title": "一键多端导出",
-          "description": "快速生成适配 Instagram Stories、小红书长图及 3×4 英寸打印的最佳尺寸。"
+          "title": "全渠道交付",
+          "description": "一次生成即可导出 16:9、9:16、1:1 与互动格式，sora2 自动同步多语言元数据。"
         }
       ]
     },
     "workflow": {
-      "title": "三步完成创作",
+      "title": "遵循 sora2 的发布节奏",
+      "description": "三步流程让每次上线高效且可预测。",
       "steps": [
         {
-          "title": "上传并选择氛围",
-          "description": "拖拽照片或自拍，挑选黄金时刻、90 年代手持机等情绪关键词。"
+          "title": "搭建世界观",
+          "description": "上传参考、脚本与数据，sora2 会即时生成场景与运动路径。"
         },
         {
-          "title": "套用模板",
-          "description": "选择预设提示词组合，边框、字幕与滤镜一次到位。"
+          "title": "编写 sora prompt",
+          "description": "在素材旁边撰写 sora prompt，记录情绪、受众与渠道需求。"
         },
         {
-          "title": "生成并微调",
-          "description": "最多生成 4 张候选图，可微调颗粒、光晕后立即下载或分享。"
+          "title": "确认并发布",
+          "description": "在 sora 2 看板完成审批后，一键将终稿推送至各区域。"
         }
-      ],
-      "description": "从上传到成片只需三步，全程免去繁琐提示词与后期。"
+      ]
     },
     "templates": {
-      "title": "模板合集一应俱全",
+      "title": "内置 sora prompt 库",
+      "description": "现成的提示词组合覆盖粉丝运营、产品发布到企业沟通。",
       "items": [
         {
-          "title": "偶像合影套组",
-          "description": "自然打光 + 闪光 bloom + 手写签名贴纸，还原线下签售氛围。"
+          "title": "新品发布剧情",
+          "description": "多场景 sora prompt，涵盖亮点揭示、功能讲解与复盘。"
         },
         {
-          "title": "重逢纪念",
-          "description": "暖色颗粒与柔焦效果，为“拥抱童年的自己”或跨国团聚打造疗愈感。"
+          "title": "粉丝互动",
+          "description": "为首播、彩蛋与社群活动设计的高互动 sora prompt。"
         },
         {
-          "title": "复古时装日记",
-          "description": "高对比胶片配合杂志排版，适合 Y2K 街拍与暗黑系造型。"
+          "title": "企业沟通",
+          "description": "结合动态图表与旁白的合规 sora prompt，用于董事会与内部播报。"
         }
-      ],
-      "description": "按场景预设提示词与边框贴纸，满足不同故事氛围。"
+      ]
     },
     "testimonials": {
-      "title": "创作者的真实反馈",
+      "title": "sora2 先行者的反馈",
+      "description": "工作室、代理商与企业团队依靠 sora2video 将故事、数据与交付保持同频。",
       "items": [
         {
-          "name": "Lena · 生活方式博主",
-          "quote": "“在小红书晒出的 AI 宝丽来点赞直接翻倍，看起来就像爸爸相册里的老照片。”"
+          "name": "Lena · 发布总监",
+          "quote": "“sora2 把预演周期从数周压缩到数小时，每条 sora prompt 在本地化后依旧精准。”"
         },
         {
-          "name": "Marcus · 婚礼影像师",
-          "quote": "“婚礼结束 10 分钟内就能递上 AI 宝丽来感谢卡，新人们都爱不释手。”"
+          "name": "Marcus · 制片总监",
+          "quote": "“我们把投资人要点喂给 sora2，就拿到了零补拍的 Dolby 成片。”"
         },
         {
-          "name": "Aya · K-pop 同人创作者",
-          "quote": "“明星合影模板太绝了，终于可以拥有和 bias 的宝丽来合照。”"
+          "name": "Aya · 社群制作人",
+          "quote": "“粉丝向的 sora prompt 让我们可以通宵发布彩蛋，同时保持影院级质感。”"
         }
-      ],
-      "description": "婚礼、同人创作者与生活方式博主都在用 AI 宝丽来，为作品注入即时的怀旧情绪。"
+      ]
     },
     "cta": {
-      "title": "准备好打印你的回忆了吗？",
-      "description": "每天赠送 2 次免费生成。升级会员可解锁高清导出、批量创作与自定义 LoRA 风格。",
-      "primary": "立即免费体验",
-      "secondary": "查看定价"
+      "title": "准备好用 sora2 指挥下一次发布了吗？",
+      "description": "从引导式 sora prompt 到自动合规与多渠道发布，一切都为你的节奏量身打造。",
+      "primary": "预约 sora2 咨询",
+      "secondary": "查看 sora 2 方案"
     },
     "faq": {
-      "title": "常见问题",
+      "title": "sora2 常见问题",
+      "subtitle": "解答关于 sora prompt、治理与交付的核心疑问。",
       "items": [
         {
-          "question": "需要懂提示词吗？",
-          "answer": "不需要。模板已预先组合 Gemini 提示、相机参数与滤镜设置，你也可以在高级模式中补充关键词。"
+          "question": "需要提示词工程经验吗？",
+          "answer": "不需要。sora2 提供带护栏的 sora prompt 模板，也可按需增补关键词。"
         },
         {
-          "question": "能否打印实体照片？",
-          "answer": "可以。下载 3×4 英寸优化的高清 JPEG，或直接通过导出面板连接合作打印商。"
+          "question": "sora2 如何保护隐私？",
+          "answer": "素材全程加密并可自动清除，sora2 不会用你的内容训练第三方模型。"
         },
         {
-          "question": "上传的照片安全吗？",
-          "answer": "所有上传均加密传输，72 小时自动清理，绝不用于第三方模型训练。你也可以在设置中开启本地优先处理。"
+          "question": "可以实时协作吗？",
+          "answer": "可以。所有人都能在 sora 2 工作区内批注、审批与调度，无需导出。"
         },
         {
           "question": "支持哪些设备？",
-          "answer": "AI 宝丽来支持主流移动与桌面浏览器，可安装为 PWA，在 iOS 与 Android 上拥有原生体验。"
+          "answer": "sora2video 在现代浏览器中运行流畅，并针对平板与手机优化了触控体验。"
         }
-      ],
-      "subtitle": "涵盖创作技巧、打印方式、隐私策略与设备支持等常见问题。"
+      ]
     },
     "pricing": {
-      "title": "定价",
-      "subtitle": "选择最适合你的创作方案",
-      "description": "免费版每天可生成两张。升级即可解锁高清导出、批量创作与自定义风格。"
+      "title": "sora2 定价",
+      "subtitle": "匹配你发布频率的灵活方案",
+      "description": "免费方案可试用 sora prompt，升级后解锁协作席位、私有渲染能力与合规审计。"
     }
   },
   "AITextPage": {

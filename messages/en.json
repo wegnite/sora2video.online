@@ -680,140 +680,140 @@
     }
   },
   "HomePage": {
-    "title": "AI Polaroid Photo Generator — Nostalgic Instant Memories",
-    "description": "Create nostalgic instant camera style photos with AI-powered filters, film grain, and storytelling templates for share-ready memories in minutes.",
+    "title": "sora2 Video Engine — Cinematic Automation for Launch Teams",
+    "description": "sora2video.online pairs the sora2 cinematic engine with guided sora prompts so campaigns publish production-grade motion without reshoots.",
     "hero": {
-      "badge": "Instant nostalgia, powered by AI",
-      "title": "Capture memories in classic polaroid style",
-      "description": "Transform any photo into a warm, retro instant print with authentic white borders, film grain, and cinematic lighting. No prompt skills required.",
-      "primaryCta": "Launch Generator",
-      "secondaryCta": "Browse Templates"
+      "badge": "sora2 cinematic launchpad",
+      "title": "Design, preview, and deliver with sora2",
+      "description": "Feed a single sora prompt or an entire storyboard into the sora 2 engine. sora2 renders lighting, audio, and edit beats in minutes so marketing, creative, and leadership stay aligned.",
+      "primaryCta": "Launch with sora2",
+      "secondaryCta": "Explore sora prompts"
     },
     "stats": {
-      "title": "Why creators choose AI Polaroid Photo",
+      "title": "Why launch teams trust sora2",
       "items": [
         {
-          "value": "2.3M+",
-          "label": "AI polaroid photos generated"
+          "value": "18K+",
+          "label": "Campaigns shipped through sora2"
         },
         {
-          "value": "140K",
-          "label": "Daily active storytellers"
+          "value": "65%",
+          "label": "Edit hours saved inside the sora 2 pipeline"
         },
         {
-          "value": "92%",
-          "label": "Users share within 10 minutes"
+          "value": "9.8",
+          "label": "Creator satisfaction with sora2video"
         }
       ]
     },
     "features": {
-      "title": "Crafted for social storytelling",
-      "description": "Everything you need to turn everyday moments into shareable, emotional keepsakes.",
+      "title": "What sora2 delivers",
+      "description": "Every feature is tuned to keep sora prompts, stakeholders, and final masters moving in sync.",
       "items": [
         {
-          "title": "Authentic film finishes",
-          "description": "Choose from calibrated looks inspired by Kodak Portra, Fujifilm FP-100C, SX-70 and custom Nano Banana presets."
+          "title": "Guided sora prompts",
+          "description": "Built-in frameworks turn campaign briefs into structured sora prompts, balancing voice, pacing, and compliance."
         },
         {
-          "title": "Scene-aware rendering",
-          "description": "Gemini analyzes pose, lighting, and framing to keep faces natural while adding dreamy highlights and glow."
+          "title": "Cinematic render brain",
+          "description": "The sora2 engine optimises lighting, physics, and character beats automatically while you iterate."
         },
         {
-          "title": "Emotion-driven prompts",
-          "description": "Built-in storytelling templates for celeb meetups, reunion hugs, vintage fashion shoots, and more."
+          "title": "Real-time collaboration",
+          "description": "Review and annotate directly on sora 2 timelines without exporting files or breaking version control."
         },
         {
-          "title": "One-click social outputs",
-          "description": "Export optimized crops for Instagram Stories, Xiaohongshu posts, and printable 3×4\" keepsakes."
+          "title": "Omni-channel delivery",
+          "description": "Export 16:9, 9:16, 1:1, and interactive formats with consistent metadata and localisation powered by sora2."
         }
       ]
     },
     "workflow": {
-      "title": "Create in three simple steps",
+      "title": "Ship campaigns the sora2 way",
+      "description": "A three-step cadence keeps every release predictable while teams stay agile.",
       "steps": [
         {
-          "title": "Upload & describe",
-          "description": "Drop in a selfie or group photo and choose the mood you want — from golden-hour romantic to 90s camcorder."
+          "title": "Map the universe",
+          "description": "Upload lookbooks, scripts, and data. sora2 frames environments and motion beats automatically."
         },
         {
-          "title": "Pick a template",
-          "description": "Select a ready-made prompt pack that styles borders, captions, and filters for your story."
+          "title": "Author sora prompts",
+          "description": "Build each sora prompt beside references and capture intent, emotion, and channel requirements."
         },
         {
-          "title": "Generate & refine",
-          "description": "Review up to four variations, tweak grain or lighting, then save, download, or share instantly."
+          "title": "Publish with confidence",
+          "description": "Lock sign-off in the sora 2 dashboard, then push ready-to-air masters to every territory."
         }
-      ],
-      "description": "Go from photo upload to share-ready polaroids without touching complex prompt strings."
+      ]
     },
     "templates": {
-      "title": "Template collections included",
+      "title": "Sora prompt libraries included",
+      "description": "Plug-and-play prompt packs accelerate everything from fandom teasers to executive briefings.",
       "items": [
         {
-          "title": "Celeb Selfie Set",
-          "description": "Meet your idols with natural posing, flash bloom, and autograph overlays."
+          "title": "Product launch arcs",
+          "description": "Multi-scene sora prompts for hero reveals, feature chapters, and post-launch recaps."
         },
         {
-          "title": "Reunion Stories",
-          "description": "Warm grain and soft focus tuned for hugging your childhood self or long-distance family."
+          "title": "Fandom engagement",
+          "description": "Interactive sora prompt beats tuned for premieres, lore drops, and community showcases."
         },
         {
-          "title": "Retro Fashion Diaries",
-          "description": "High-contrast film with stylized typography for Y2K street snaps and magazine covers."
+          "title": "Enterprise comms",
+          "description": "Board-ready sora prompts that pair motion graphics with compliance-safe narration."
         }
-      ],
-      "description": "Curated prompt packs and overlays for every storytelling moment."
+      ]
     },
     "testimonials": {
-      "title": "Loved by nostalgic creators",
+      "title": "Trusted by sora2 pioneers",
+      "description": "Studios, agencies, and in-house teams rely on sora2video to keep story, data, and delivery in one rhythm.",
       "items": [
         {
-          "name": "Lena · Lifestyle blogger",
-          "quote": "“My Xiaohongshu followers triple-tapped the Gemini polaroids — they look like real film from my dad's archive.”"
+          "name": "Lena · Launch Director",
+          "quote": "“sora2 cut our previsualisation window from weeks to hours. Every sora prompt stayed intact through localisation.”"
         },
         {
-          "name": "Marcus · Wedding filmmaker",
-          "quote": "“We deliver AI polaroid thank-you cards minutes after the ceremony. Couples are obsessed.”"
+          "name": "Marcus · Studio EP",
+          "quote": "“We briefed sora2 with investor talking points and received Dolby-ready edits that needed zero reshoots.”"
         },
         {
-          "name": "Aya · K-pop fan artist",
-          "quote": "“The celeb meet and greet prompts are magic. I can finally imagine polaroids with my bias.”"
+          "name": "Aya · Community Producer",
+          "quote": "“The fandom-ready sora prompts let us drop surprise chapters overnight without sacrificing polish.”"
         }
-      ],
-      "description": "Creators across weddings, fandoms, and lifestyle blogs rely on AI Polaroid Photo to deliver instant nostalgia."
+      ]
     },
     "cta": {
-      "title": "Ready to print your memories?",
-      "description": "Start with 2 free AI polaroid renders daily. Upgrade for HD exports, batch generation, and custom LoRA styles.",
-      "primary": "Start for free",
-      "secondary": "View pricing"
+      "title": "Ready to orchestrate a sora2 launch?",
+      "description": "Start with guided sora prompts, automated compliance, and publishing macros tailored to your release cadence.",
+      "primary": "Book a sora2 session",
+      "secondary": "View sora 2 pricing"
     },
     "faq": {
-      "title": "Frequently asked questions",
+      "title": "sora2 launch FAQs",
+      "subtitle": "Answers for teams exploring sora prompts, governance, and delivery.",
       "items": [
         {
-          "question": "Do I need prompt engineering experience?",
-          "answer": "No. Our curated templates layer Gemini prompts, camera metadata, and filter settings automatically. You can still customize keywords if you want finer control."
+          "question": "Do we need prompt engineering expertise?",
+          "answer": "No. sora2 supplies structured sora prompt templates with guardrails. You can still customise keywords for advanced control."
         },
         {
-          "question": "Can I print the photos?",
-          "answer": "Yes. Download high-resolution JPEGs optimized for 3×4\" polaroid printers or send directly to our print partners from the export panel."
+          "question": "How does sora2 handle privacy?",
+          "answer": "Assets stay encrypted, version-controlled, and can be auto-purged. sora2 never trains third-party models on your content."
         },
         {
-          "question": "Is my data private?",
-          "answer": "Uploads are encrypted, auto-deleted after 72 hours, and never used to train third-party models. Enable local-only processing in settings for extra control."
+          "question": "Can we collaborate in real time?",
+          "answer": "Yes. Comment, approve, and adjust deliveries together inside the sora 2 workspace without exporting files."
         },
         {
           "question": "Which devices are supported?",
-          "answer": "AI Polaroid Photo works in modern mobile and desktop browsers. Install the PWA for a native-like experience on iOS and Android."
+          "answer": "sora2video runs smoothly on modern browsers, with touch-optimised controls for tablets and phones."
         }
-      ],
-      "subtitle": "Answers to common questions about tips, printing, privacy, and supported devices."
+      ]
     },
     "pricing": {
-      "title": "Pricing",
-      "subtitle": "Choose the plan that fits your creative flow",
-      "description": "Start free with two daily renders. Upgrade for HD exports, batch generation, and custom styles."
+      "title": "sora2 Pricing",
+      "subtitle": "Choose the plan that matches your launch velocity",
+      "description": "Start with exploratory sora prompts for free. Upgrade for collaborative seats, private render capacity, and compliance auditing."
     }
   },
   "AITextPage": {

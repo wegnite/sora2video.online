@@ -1,19 +1,19 @@
 import PricingSection from '@/components/blocks/pricing/pricing';
-import { AiPolaroidEditor } from './ai-polaroid-editor';
-import { FeaturedGallery } from './featured-gallery';
-import { SeoContentSections } from './seo-content-sections';
+import { Sora2Hero } from './sora2-hero';
+import { Sora2Insights } from './sora2-insights';
+import { Sora2Showcase } from './sora2-showcase';
 
 export function AiToolHomepage() {
   return (
     <div className="min-h-screen bg-[#020414] text-white">
       {/* Main AI Tool Section */}
-      <AiPolaroidEditor />
+      <Sora2Hero />
 
       {/* SEO Content Sections */}
-      <SeoContentSections />
+      <Sora2Insights />
 
       {/* Featured Gallery & Social Proof */}
-      <FeaturedGallery />
+      <Sora2Showcase />
 
       {/* Pricing Plans */}
       <PricingSection />
@@ -21,4 +21,4 @@ export function AiToolHomepage() {
   );
 }
 
-export { AiPolaroidEditor, SeoContentSections, FeaturedGallery };
+export { Sora2Hero, Sora2Insights, Sora2Showcase };
