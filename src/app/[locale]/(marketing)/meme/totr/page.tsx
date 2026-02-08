@@ -18,9 +18,9 @@ export async function generateMetadata({
   const { locale } = await params;
 
   return constructMetadata({
-    title: 'AI Polaroid Photo — Nostalgic Instant Photo Generator',
+    title: 'Sora2 Video — Cinematic Launch Platform',
     description:
-      'Create AI-generated polaroid photos with vintage film borders, caption overlays, and export-ready templates.',
+      'Explore Sora2 tools for crafting cinematic sequences, collaborative reviews, and automation-ready deliveries.',
     canonicalUrl: getUrlWithLocale(TARGET_PATH, locale),
     noIndex: true,
   });

@@ -45,7 +45,7 @@ pnpm ga:setup
 ## ✅ 完成！
 
 脚本会自动：
-- 创建 GA4 媒体资源 "AI Polaroid Photo"
+- 创建 GA4 媒体资源 "Sora2 Video"
 - 创建网站数据流
 - 保存测量 ID 到 `.env.local`
 - 显示集成代码

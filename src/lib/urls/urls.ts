@@ -2,7 +2,7 @@ import { routing } from '@/i18n/routing';
 import type { Locale } from 'next-intl';
 
 const fallbackDevBaseUrl = `http://localhost:${process.env.PORT ?? 3000}`;
-const defaultProdBaseUrl = 'https://aipolaroidphoto.org';
+const defaultProdBaseUrl = 'https://sora2video.online';
 
 const baseUrl =
   process.env.NEXT_PUBLIC_BASE_URL ??

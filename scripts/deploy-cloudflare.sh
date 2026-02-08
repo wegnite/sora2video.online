@@ -179,7 +179,7 @@ deploy_to_cloudflare() {
 
 # 部署后检查
 post_deploy_check() {
-    local base_url="${NEXT_PUBLIC_BASE_URL:-https://aipolaroidphoto.org}"
+    local base_url="${NEXT_PUBLIC_BASE_URL:-https://sora2video.online}"
     
     print_info "进行部署后检查..."
     

@@ -1,56 +1,46 @@
 import { buttonVariants } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
+import { type ToolsPageCopy } from '@/components/marketing/tools/tools-landing';
 import { cn } from '@/lib/utils';
 import { Routes } from '@/routes';
-import { getTranslations } from 'next-intl/server';
+import { getMessages } from 'next-intl/server';
 import Link from 'next/link';
 
-export async function ToolsSection() {
-  const t = await getTranslations('ToolsPage');
+const moduleRoutes: string[] = [
+  Routes.AiPolaroid,
+  Routes.AiPolaroidTemplates,
+  Routes.AiPolaroidGenerator,
+  Routes.AiPolaroid,
+];
 
-  const items = [
-    {
-      title: t('items.wordGame.title'),
-      desc: t('items.wordGame.description'),
-      href: Routes.AIImage,
-    },
-    {
-      title: t('items.wordLists.title'),
-      desc: t('items.wordLists.description'),
-      href: Routes.Blog,
-    },
-    {
-      title: t('items.statistics.title'),
-      desc: t('items.statistics.description'),
-      href: Routes.AIImage,
-    },
-    {
-      title: t('items.hints.title'),
-      desc: t('items.hints.description'),
-      href: Routes.AIImage,
-    },
-  ];
+export async function ToolsSection() {
+  const { ToolsPage: toolsPageMessages } = await getMessages();
+  const copy = toolsPageMessages as ToolsPageCopy;
+  const { modules, title, description, ctaSection } = copy;
 
   return (
     <section className="container mx-auto px-4 py-12" id="tools">
-      <h2 className="text-2xl md:text-3xl font-semibold tracking-tight">
-        {t('title')}
+      <h2 className="text-2xl font-semibold tracking-tight md:text-3xl">
+        {title}
       </h2>
-      <p className="mt-3 text-muted-foreground max-w-3xl">{t('description')}</p>
+      <p className="mt-3 max-w-3xl text-muted-foreground">{description}</p>
 
       <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {items.map((it) => (
-          <Card key={it.title} className="p-6 space-y-2 border bg-card/50">
-            <h3 className="font-medium text-lg">{it.title}</h3>
-            <p className="text-sm text-muted-foreground">{it.desc}</p>
+        {modules.items.map((item, index) => (
+          <Card key={item.title} className="space-y-2 border bg-card/50 p-6">
+            <span className="text-xs font-semibold uppercase tracking-wide text-primary">
+              {item.tag}
+            </span>
+            <h3 className="text-lg font-medium">{item.title}</h3>
+            <p className="text-sm text-muted-foreground">{item.body}</p>
             <Link
-              href={it.href}
+              href={moduleRoutes[index] ?? Routes.Tools}
               className={cn(
                 buttonVariants({ variant: 'default', size: 'sm' }),
                 'mt-3'
               )}
             >
-              {t('cta')}
+              {ctaSection.primary}
             </Link>
           </Card>
         ))}

@@ -11,7 +11,7 @@ import { websiteConfig } from './website';
  * NOTICE: used in client components only
  *
  * docs:
- * https://aipolaroidphoto.org/docs/config/footer
+ * https://sora2video.online/docs/config/footer
  *
  * @returns The footer config with translated titles
  */
@@ -59,21 +59,21 @@ export function getFooterLinks(): NestedMenuItem[] {
         },
         ...(websiteConfig.blog.enable
           ? [
-              {
-                title: t('resources.items.blog'),
-                href: Routes.Blog,
-                external: false,
-              },
-            ]
+            {
+              title: t('resources.items.blog'),
+              href: Routes.Blog,
+              external: false,
+            },
+          ]
           : []),
         ...(websiteConfig.docs.enable
           ? [
-              {
-                title: t('resources.items.docs'),
-                href: Routes.Docs,
-                external: false,
-              },
-            ]
+            {
+              title: t('resources.items.docs'),
+              href: Routes.Docs,
+              external: false,
+            },
+          ]
           : []),
       ],
     },
@@ -119,6 +119,36 @@ export function getFooterLinks(): NestedMenuItem[] {
           title: t('legal.items.termsOfService'),
           href: Routes.TermsOfService,
           external: false,
+        },
+      ],
+    },
+    {
+      title: 'Friends',
+      items: [
+        {
+          title: 'Seedance AI',
+          href: 'https://seedance20.net',
+          external: true,
+        },
+        {
+          title: 'Seedream AI',
+          href: 'https://seedream50.com',
+          external: true,
+        },
+        {
+          title: 'Kling AI',
+          href: 'https://kling3.co/',
+          external: true,
+        },
+        {
+          title: 'AI Music Maker',
+          href: 'https://musicmake.ai',
+          external: true,
+        },
+        {
+          title: 'Song Unique',
+          href: 'https://songunique.com',
+          external: true,
         },
       ],
     },

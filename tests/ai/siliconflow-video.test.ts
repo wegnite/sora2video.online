@@ -25,7 +25,7 @@ describe('generateSiliconflowVideo', () => {
     vi.stubGlobal('fetch', fetchMock);
 
     const result = await generateSiliconflowVideo({
-      prompt: 'retro polaroid montage',
+      prompt: 'retro sora2 cinematic montage',
       model: 'Wan-AI/Wan2.2-T2V-A14B',
     });
 
@@ -62,7 +62,7 @@ describe('generateSiliconflowVideo', () => {
     vi.stubGlobal('fetch', fetchMock);
 
     const result = await generateSiliconflowVideo({
-      prompt: 'sunset polaroid timelapse',
+      prompt: 'sunset sora2 cinematic timelapse',
       model: 'Wan-AI/Wan2.2-T2V-A14B',
       pollIntervalMs: 1,
       pollAttempts: 3,

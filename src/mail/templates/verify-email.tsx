@@ -35,6 +35,6 @@ export default function VerifyEmail({
 VerifyEmail.PreviewProps = {
   locale: routing.defaultLocale,
   messages: defaultMessages,
-  url: 'https://aipolaroidphoto.org',
+  url: 'https://sora2video.online',
   name: 'username',
 };

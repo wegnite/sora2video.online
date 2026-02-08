@@ -17,9 +17,9 @@ export async function generateMetadata({
 }): Promise<Metadata | undefined> {
   const { locale } = await params;
   return constructMetadata({
-    title: 'AI Polaroid Generator — Edit Photos with Vintage Film Styles',
+    title: 'Sora2 Prompt Lab — Generate Cinematic Shots',
     description:
-      'Use the AI polaroid generator to transform photos with instant film borders, captions, and Gemini-powered style presets.',
+      'Use the Sora Prompt Lab to transform prompts into cinematic sequences with metadata, captions, and automation-ready presets.',
     canonicalUrl: getUrlWithLocale(TARGET_PATH, locale),
     noIndex: true,
   });

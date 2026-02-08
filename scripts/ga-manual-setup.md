@@ -11,7 +11,7 @@
 1. 点击左下角 **管理** (齿轮图标)
 2. 在 **媒体资源** 列，点击 **创建媒体资源**
 3. 填写信息：
-   - **媒体资源名称**: `AI Polaroid Photo`
+   - **媒体资源名称**: `Sora2 Video`
    - **时区**: `(GMT+08:00) 中国时间 - 上海`
    - **货币**: `美元 (USD $)`
 4. 点击 **下一步**
@@ -33,8 +33,8 @@
 - 点击 **下一步**
 
 ### 6. 设置网站数据流
-- **网站网址**: `https://aipolaroidphoto.org`
-- **数据流名称**: `AI Polaroid Photo - Web Stream`
+- **网站网址**: `https://sora2video.online`
+- **数据流名称**: `Sora2 Video - Web Stream`
 - 点击 **创建数据流**
 
 ### 7. 复制测量 ID
@@ -103,7 +103,7 @@ NEXT_PUBLIC_GA_MEASUREMENT_ID=G-B10KKVENLG
 
 要检查现有的 GA 是否工作：
 1. 访问 https://analytics.google.com/
-2. 查看是否有 "AI Polaroid Photo" 或类似的媒体资源
+2. 查看是否有 "Sora2 Video" 或类似的媒体资源
 3. 如果有，查看实时数据是否正常
 
 ---

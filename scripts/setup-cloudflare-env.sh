@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# AI Polaroid Photo - Cloudflare 环境变量设置脚本
+# Sora2 Video - Cloudflare 环境变量设置脚本
 # 使用方法: ./scripts/setup-cloudflare-env.sh
 
 set -e
@@ -198,13 +198,13 @@ create_cloudflare_resources() {
         # 创建 R2 存储桶
         print_info "创建 R2 存储桶..."
         
-        if wrangler r2 bucket create aipolaroidphoto-cache 2>/dev/null; then
+        if wrangler r2 bucket create sora2video-cache 2>/dev/null; then
             print_success "缓存存储桶创建成功"
         else
             print_warning "缓存存储桶可能已存在"
         fi
         
-        if wrangler r2 bucket create aipolaroidphoto-files 2>/dev/null; then
+        if wrangler r2 bucket create sora2video-files 2>/dev/null; then
             print_success "文件存储桶创建成功"
         else
             print_warning "文件存储桶可能已存在"
@@ -220,7 +220,7 @@ create_cloudflare_resources() {
 
 # 主菜单
 show_menu() {
-    echo "🔧 AI Polaroid Photo - Cloudflare 环境配置"
+    echo "🔧 Sora2 Video - Cloudflare 环境配置"
     echo "=============================================="
     echo ""
     echo "请选择要配置的部分:"

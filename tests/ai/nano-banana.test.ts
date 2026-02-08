@@ -33,7 +33,7 @@ describe('generateNanoBananaImages', () => {
     vi.stubGlobal('fetch', fetchMock);
 
     const result = await generateNanoBananaImages({
-      prompt: 'A cozy coffee shop polaroid',
+      prompt: 'A cozy coffee shop sora2 cinematic frame',
       aspectRatio: '1:1',
       quality: 'hd',
       numImages: 2,
@@ -51,7 +51,7 @@ describe('generateNanoBananaImages', () => {
 
     const body = JSON.parse(String(options?.body));
     expect(body).toMatchObject({
-      prompt: 'A cozy coffee shop polaroid',
+      prompt: 'A cozy coffee shop sora2 cinematic frame',
       n: 2,
       size: '1024x1024',
       quality: 'hd',

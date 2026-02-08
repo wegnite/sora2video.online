@@ -1,8 +1,8 @@
 {
   "Metadata": {
-    "name": "AI 拍立得照片",
-    "title": "AI 拍立得照片生成器 — 创建复古风格AI照片",
-    "description": "使用AI技术创建美丽的拍立得风格照片，享受复古滤镜、即时效果和怀旧美学。将您的图像转换为美丽的拍立得回忆。"
+    "name": "Sora2 Video",
+    "title": "Sora2 Video 自动化平台 — 更快推出电影级 AI 活动",
+    "description": "Sora2 Video 将 sora prompt、协作与发布整合在同一平台，让团队以受控节奏交付电影级故事。"
   },
   "Common": {
     "login": "登录",
@@ -142,13 +142,13 @@
     "backToHome": "返回首页"
   },
   "AboutPage": {
-    "title": "关于我们",
-    "description": "MkSaaS 是一个使用最先进的技术栈构建的 AI SaaS 模板，它可以帮助你更快更好地构建你的 SaaS。如果你有任何问题，欢迎联系我。",
-    "authorName": "MkSaaS",
-    "authorBio": "最好的 AI SaaS 模板",
-    "introduction": "👋 你好，这里是 MkSaaS，一个使用最先进的技术栈构建的 AI SaaS 模板，它可以帮助你更快更好地构建你的 SaaS。如果你有任何问题，欢迎联系我。",
-    "talkWithMe": "联系我",
-    "followMe": "关注我"
+    "title": "关于 Sora2 Video",
+    "description": "Sora2 Video 是面向发布团队的电影化自动化平台，将 sora prompt、协作与受控交付集中在一起。",
+    "authorName": "Sora2 Video",
+    "authorBio": "电影化自动化平台",
+    "introduction": "👋 欢迎来到 Sora2 Video。我们帮助工作室、市场与沟通团队把策略转化为 sora prompt，并在一个安全空间完成实时审核与分发。",
+    "talkWithMe": "联系 Sora2 团队",
+    "followMe": "关注 Sora2 的 X 账号"
   },
   "ChangelogPage": {
     "title": "更新日志",
@@ -157,11 +157,11 @@
   },
   "ContactPage": {
     "title": "联系我们",
-    "description": "我们帮助您找到合适的计划",
-    "subtitle": "我们帮助您找到合适的计划",
+    "description": "我们会协助你选择匹配发布节奏的 Sora2 方案",
+    "subtitle": "和 Sora2 Video 团队聊聊",
     "form": {
-      "title": "联系我们",
-      "description": "如果您有任何问题或反馈，请随时联系我们的团队",
+      "title": "联系 Sora2",
+      "description": "分享你在接入、集成或定价方面的问题，我们会尽快回复。",
       "name": "姓名",
       "email": "邮箱",
       "message": "消息",
@@ -177,28 +177,27 @@
     }
   },
   "WaitlistPage": {
-    "title": "等待队列",
-    "description": "加入等待队列，及时获取最新消息和更新",
-    "subtitle": "加入等待队列，及时获取最新消息和更新",
+    "title": "Sora2 等候名单",
+    "description": "抢先获知新的 Sora2 自动化模块",
+    "subtitle": "第一时间掌握更新",
     "form": {
-      "title": "加入等待队列",
-      "description": "我们将在产品发布时及时通知您",
+      "title": "加入 Sora2 等候名单",
+      "description": "当新的 Sora2 能力上线时我们会立即通知你",
       "email": "邮箱",
-      "subscribe": "加入等待队列",
-      "subscribing": "加入等待队列中...",
-      "success": "加入等待队列成功",
-      "fail": "加入等待队列失败",
+      "subscribe": "订阅",
+      "subscribing": "订阅中...",
+      "success": "订阅成功",
+      "fail": "订阅失败",
       "emailValidation": "请输入有效的邮箱地址"
     }
   },
   "Newsletter": {
-    "title": "邮件列表",
-    "subtitle": "加入我们的社区",
-    "description": "订阅邮件列表，及时获取最新消息和更新",
+    "title": "Sora2 Dispatch",
+    "subtitle": "加入发布社区",
+    "description": "订阅即可收到 Sora2 产品更新、操作手册与案例拆解。",
     "form": {
       "email": "邮箱",
       "subscribe": "订阅",
-      "subscribing": "订阅中...",
       "success": "订阅成功",
       "fail": "订阅失败",
       "emailValidation": "请输入有效的邮箱地址"
@@ -298,100 +297,100 @@
   "Marketing": {
     "navbar": {
       "generator": {
-        "title": "生成器"
+        "title": "Sora Prompt 实验室"
       },
       "templates": {
-        "title": "模板"
+        "title": "工作流模板"
       },
       "vintage": {
-        "title": "复古模式"
+        "title": "实时预览"
       },
       "gallery": {
-        "title": "作品集"
+        "title": "发布案例"
       },
       "tutorials": {
-        "title": "教程"
+        "title": "操作手册"
       },
       "blog": {
-        "title": "博客"
+        "title": "洞察"
       },
       "pages": {
-        "title": "页面",
+        "title": "更多",
         "items": {
           "tools": {
-            "title": "精选工具",
-            "description": "AI 宝丽来提示词、集成与工作流指南"
+            "title": "工具站",
+            "description": "探索 Sora2 自动化模块、定价与发布节奏。"
           },
           "wan22": {
-            "title": "wan 2.2 专题",
-            "description": "调研与流量验证一站式方案"
+            "title": "案例库",
+            "description": "深入解析 Sora2 prompt 策略与活动拆解。"
           },
           "about": {
-            "title": "关于我们",
-            "description": "了解团队与产品愿景"
+            "title": "关于 Sora2 Video",
+            "description": "了解 Sora2 的使命、团队与路线图。"
           },
           "contact": {
-            "title": "联系支持",
-            "description": "商务合作或获取帮助"
+            "title": "联系",
+            "description": "与 Sora2 专家讨论接入或合作。"
           },
           "waitlist": {
-            "title": "功能候补名单",
-            "description": "抢先体验新能力"
+            "title": "加入等候名单",
+            "description": "抢先体验 Sora2 即将上线的自动化能力。"
           },
           "roadmap": {
-            "title": "产品规划",
-            "description": "查看即将上线的功能"
+            "title": "路线图",
+            "description": "关注 Sora2 计划中的版本与治理里程碑。"
           },
           "changelog": {
             "title": "更新日志",
-            "description": "了解最新迭代"
+            "description": "回顾 Sora2 堆栈的最新改进。"
           },
           "cookiePolicy": {
             "title": "Cookie 政策",
-            "description": "了解我们如何使用 Cookie"
+            "description": "查看 Sora2 Video 如何使用 Cookie 与遥测。"
           },
           "privacyPolicy": {
             "title": "隐私政策",
-            "description": "了解数据保护方式"
+            "description": "了解 Sora2 Video 如何保护你的数据。"
           },
           "termsOfService": {
             "title": "服务条款",
-            "description": "阅读平台使用协议"
+            "description": "阅读 Sora2 平台使用条款。"
           }
         }
       }
     },
     "footer": {
-      "tagline": "用 AI 在几分钟内生成怀旧宝丽来照片",
+      "tagline": "用 Sora2 电影化自动化撑起每一次发布",
       "product": {
         "title": "产品",
         "items": {
-          "generator": "生成器",
-          "templates": "模板",
-          "vintage": "复古模式"
+          "generator": "Sora Prompt 实验室",
+          "templates": "工作流模板",
+          "vintage": "实时预览"
         }
       },
       "resources": {
         "title": "资源",
         "items": {
-          "gallery": "作品集",
-          "tutorials": "教程",
-          "wan22": "wan 2.2 专题",
+          "gallery": "发布案例",
+          "tutorials": "操作手册",
+          "wan22": "案例库",
           "docs": "文档",
-          "blog": "博客"
+          "blog": "洞察"
         }
       },
       "company": {
         "title": "团队",
         "items": {
-          "about": "关于我们",
-          "contact": "联系我们",
+          "about": "关于",
+          "contact": "联系",
           "changelog": "更新日志",
-          "waitlist": "候补名单"
+          "waitlist": "等候名单"
         }
       },
       "legal": {
-        "title": "法律信息",
+        "title": "合规",
         "items": {
           "cookiePolicy": "Cookie 政策",
           "privacyPolicy": "隐私政策",
@@ -870,26 +869,176 @@
     "description": "Seedream 4.0 图片生成器：支持文生图与图生图，提供多风格与 2x/4x 超分"
   },
   "ToolsPage": {
-    "title": "Seedream 4.0 精品工具",
-    "description": "探索 Seedream 4.0 精品工具：图片生成、提示词库、风格预设与超分工作流。",
-    "cta": "打开",
-    "items": {
-      "seedreamImage": {
-        "title": "图片生成器",
-        "description": "文生图与图生图，支持风格与超分"
-      },
-      "prompts": {
-        "title": "提示词库",
-        "description": "精选提示词模板与最佳实践"
-      },
-      "styles": {
-        "title": "风格与预设",
-        "description": "摄影、插画、动漫等即用预设"
-      },
-      "upscale": {
-        "title": "超分与修复",
-        "description": "2x/4x 超分，支持面部修复"
-      }
+    "title": "Sora2 工具站",
+    "description": "在一套统一的 Sora2 工具站内，从 sora prompt 设计到多语种交付，全面驱动自动化工作流。",
+    "hero": {
+      "badge": "sora2 自动化",
+      "title": "把每一次发布交给 Sora2 工具站",
+      "subtitle": "连接生成控制、协作治理与交付自动化，让每条 sora prompt 都带着合规与数据闭环上线。",
+      "primary": "进入 Sora2 控制台",
+      "secondary": "预约 Sora2 演示"
+    },
+    "clusters": {
+      "title": "四大 Sora2 工作台",
+      "description": "预览支撑 Sora2 自动化循环的关键模块。",
+      "items": [
+        {
+          "title": "生成核心",
+          "description": "在 Sora2 物理感知引擎中设计电影级镜头。",
+          "bullets": [
+            "把结构化 sora prompt 保存为可版本化的蓝图。",
+            "在导出前就模拟光线、运动路径与音频节拍。"
+          ]
+        },
+        {
+          "title": "故事编排",
+          "description": "实时编排章节、叠加元数据并追踪审批。",
+          "bullets": [
+            "将带有多语言槽位的 sora prompt 拖入时间线。",
+            "把法务、品牌、在地化意见纳入分阶段审阅。"
+          ]
+        },
+        {
+          "title": "协作驾驶舱",
+          "description": "利用 Sora2 权限、批注与预设协调跨团队合作。",
+          "bullets": [
+            "指派角色、保护资源，并按发布记录讨论线程。",
+            "触发自动流程，把资产推送至存储与社媒渠道。"
+          ]
+        },
+        {
+          "title": "洞察矩阵",
+          "description": "依托原生 Sora2 信号监测发布表现。",
+          "bullets": [
+            "融合观看时长、留存与 prompt 级遥测。",
+            "对比过往 sora2video.online 项目，锁定加速重点。"
+          ]
+        }
+      ]
+    },
+    "workflow": {
+      "title": "Sora2 发布节奏",
+      "description": "沿着可追溯的流程，将灵感转化为可分发的内容资产。",
+      "steps": [
+        {
+          "phase": "01",
+          "title": "搭建世界观",
+          "description": "上传简报、情绪板、品牌守则与数据源，让 Sora2 读懂使命。",
+          "deliverable": "对齐受众的创意地图与 prompt 切入点"
+        },
+        {
+          "phase": "02",
+          "title": "编写 sora prompt",
+          "description": "在 Sora2 沙盒中撰写结构化提示词、设置物理线索并预览构图。",
+          "deliverable": "版本可控的 sora prompt 库"
+        },
+        {
+          "phase": "03",
+          "title": "情境化评审",
+          "description": "邀请干系人在线批注、锁定镜头并完成合规审核，无需导出文件。",
+          "deliverable": "附带治理追踪的审批日志"
+        },
+        {
+          "phase": "04",
+          "title": "全域分发",
+          "description": "通过 Sora2 交付控制台推送渠道成片、元数据与字幕包。",
+          "deliverable": "自动生成的本地化母带与分发脚本"
+        }
+      ]
+    },
+    "modules": {
+      "title": "Sora2 内部深度工具",
+      "description": "为每周高频上线的团队打造，聚焦效率与可控性。",
+      "items": [
+        {
+          "title": "Prompt Lab",
+          "tag": "生成",
+          "body": "实验 prompt 片段、评分矩阵与镜头素材库，全部围绕 Sora2 灯光智能调校。",
+          "metrics": [
+            "覆盖 40+ 电影化原型模板",
+            "共享提示词包即时同步至团队空间"
+          ]
+        },
+        {
+          "title": "Scene Composer",
+          "tag": "编排",
+          "body": "拼接多宇宙时间线、锁定转场并用 Sora2 实时渲染预览机位。",
+          "metrics": [
+            "自适应时间线对齐营销里程碑",
+            "A/B prompt 对比视图并排审阅"
+          ]
+        },
+        {
+          "title": "Collab Hub",
+          "tag": "协作",
+          "body": "在 Sora2 权限体系下同步评论、指派任务并沉淀品牌手册。",
+          "metrics": [
+            "创意、法务、伙伴等角色预设一键套用",
+            "导出文件附带关键决策与时间戳"
+          ]
+        },
+        {
+          "title": "Insight Engine",
+          "tag": "分析",
+          "body": "汇总 Sora2 活动数据、跟踪互动表现并自动提示加速机会。",
+          "metrics": ["每次渲染后即时刷新预测得分", "可对接 BI 仓库与告警体系"]
+        }
+      ]
+    },
+    "caseStudies": {
+      "title": "团队如何借助 Sora2 成功",
+      "description": "无论首发还是企业沟通，工具站都能带来可量化的成果。",
+      "items": [
+        {
+          "title": "Nebula Systems — 轨道发布",
+          "industry": "航天",
+          "summary": "在 Sora2 中并行创意与合规，一夜完成多语种投资者直播。",
+          "impact": "观看完成率 +91%，字幕包自动生成 8 种语言"
+        },
+        {
+          "title": "Prism Collective — 粉丝彩蛋",
+          "industry": "娱乐",
+          "summary": "利用 Sora2 prompt 套件快速投放惊喜剧情，无需熬夜渲染。",
+          "impact": "6 个市场同步上线，分享速度提升 3.4 倍"
+        },
+        {
+          "title": "Shift Mobility — 自动驾驶预览",
+          "industry": "出行",
+          "summary": "把产品遥测与 Sora2 时间线联动，为干系人提供实时洞察看板。",
+          "impact": "14 个国家在两轮冲刺内完成发布"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Sora2 工具站常见问题",
+      "items": [
+        {
+          "question": "需要提示词工程师才能上手吗？",
+          "answer": "不需要。Sora2 自带引导式 sora prompt、护栏与最佳实践模板，高阶用户亦可随时开启高级参数。"
+        },
+        {
+          "question": "团队权限如何管理？",
+          "answer": "可按照工作区分配角色、锁定敏感镜头并归档审批记录，所有操作都会在 Sora2 中留痕。"
+        },
+        {
+          "question": "有哪些支付方案？",
+          "answer": "支持月付、年付订阅，也可一次性买断或购买信用点包，全部通过 Stripe 在 Sora2 控制台安全结算。"
+        },
+        {
+          "question": "能与现有 BI 工具整合吗？",
+          "answer": "可以。Insight Engine 支持通过 API 导出或直接推送到 BI 仓库，与营销 KPI 结合分析。"
+        },
+        {
+          "question": "本地化是否自动化？",
+          "answer": "Sora2 的本地化宏会自动生成字幕文件、元数据与市场定制版式，保证全球上线一致性。"
+        }
+      ]
+    },
+    "ctaSection": {
+      "title": "准备好用 Sora2 扩张发布节奏了吗？",
+      "description": "立即在 sora2video.online 创建第一个项目，团队成长后再升级协作方案。",
+      "primary": "开始使用 Sora2",
+      "secondary": "联系团队顾问"
     }
   },
   "AIChatPage": {
@@ -905,166 +1054,173 @@
     "description": "MkSaaS 让您在几天内轻松构建您的 AI SaaS，简单且毫不费力"
   },
   "AIPolaroidPage": {
-    "title": "AI 宝丽来照片",
-    "description": "一站式在线生成怀旧即时成像风格的解决方案。",
+    "title": "Sora2 平台概览",
+    "description": "了解 Sora2 如何把 prompt、协作与交付连接成一套受控的发布系统。",
     "hero": {
-      "title": "自定义你的 AI 宝丽来体验",
-      "description": "搭建灵感板、管理提示词套装、发布作品集，让 AI 成片真正讲述你的故事。",
-      "primaryCta": "打开生成器",
-      "secondaryCta": "查看模板"
+      "title": "用 Sora2 构建你的发布宇宙",
+      "description": "Sora2 Video 将电影化自动化、协作审批与分发脚本统一到一个安全控制台，让每次活动保持节奏一致。",
+      "primaryCta": "打开 Sora Prompt 实验室",
+      "secondaryCta": "查看工作流模板"
     },
     "sections": [
       {
-        "title": "核心能力",
+        "title": "统一的发布控制",
         "body": [
-          "自动识别光线与人脸，在保留自然肤质的同时，叠加真实胶片光晕。",
-          "将常用风格保存为合集，适配活动、粉丝应援或商业客户。"
+          "在同一个控制台撰写 sora prompt、管理资产并实时预览镜头，同时保持护栏在线。",
+          "按角色划分的工作区让创意、市场与法务无需传文件也能保持一致。"
         ]
       },
       {
-        "title": "为团队与创作者而生",
+        "title": "治理就绪的工作流",
         "body": [
-          "通过共享文件夹与审批流程，与编辑、摄影团队协作。",
-          "追踪收藏、导出与社媒分享率等关键数据，评估内容表现。"
+          "审批阶段记录批注、版本历史与合规签署，确保每个镜头可追溯。",
+          "本地化宏自动生成字幕、元数据与各地区版本。"
+        ]
+      },
+      {
+        "title": "全过程智能",
+        "body": [
+          "洞察面板在迭代时提供互动预估、留存评分与优化建议。",
+          "将新活动与以往 Sora2 项目对照，优先锁定投放与增效策略。"
         ]
       }
     ],
     "cta": {
-      "title": "立即开启你的 AI 宝丽来旅程",
-      "primary": "马上开始",
-      "secondary": "预约演示"
+      "title": "准备好与 Sora2 协同发布了吗？",
+      "primary": "进入 Sora Prompt 实验室",
+      "secondary": "联系 Sora2 团队"
     }
   },
   "AIPolaroidGeneratorPage": {
-    "title": "AI 宝丽来生成器",
-    "description": "全面解析生成器工作区与高级控制。",
+    "title": "Sora Prompt 实验室",
+    "description": "在一个受控工作区中设计、测试并交付 sora prompt。",
     "hero": {
-      "title": "零门槛生成电影质感的宝丽来",
-      "description": "实时预览、提示词引导与 Gemini 算法深度结合，为即时成像美学量身打造。",
-      "primaryCta": "进入工作区"
+      "title": "自信地编排电影化 prompt",
+      "description": "在 Sora2 中同步预览光线、运动与音频节拍，同时跟踪治理信息、元数据与交付输出。",
+      "primaryCta": "打开工作区"
     },
     "sections": [
       {
         "title": "工作区亮点",
         "body": [
-          "多种风格并排秒级渲染，方便即时比较光线与氛围。",
-          "无需离开画布即可微调色调、边框宽度、字幕贴纸与颗粒强度。"
+          "并排对比不同 prompt 版本，观察同步的机位与光线变化。",
+          "锁定品牌色板、字体与字幕令牌，确保每个版本都符合品牌调性。"
         ]
       },
       {
         "title": "高级控制",
         "body": [
-          "提示词编排器将你的关键词与相机参数、胶片型号（如 Kodak Portra、Fuji Instax）自动组合。",
-          "批量模式一次生成 20 张风格一致的作品，适合相册、联名或周边。"
+          "通过结构化面板写入上下文、物理线索与交付令牌。",
+          "批量生成模式可为章节、广告组或地区版本输出治理一致的素材。"
         ]
       },
       {
-        "title": "导出格式",
+        "title": "交付输出",
         "body": [
-          "1:1 正方形用于动态，9:16 适配故事/短视频，3×4 英寸 300 DPI 满足实体打印。",
-          "可导出带透明边框的分层文件，方便在 Figma、Canva 等工具中二次排版。"
+          "一次导出 16:9、9:16、1:1 等格式，并附上本地化宏与元数据。",
+          "将审核通过的镜头直接推送到工具站、资产库或后续渠道。"
         ]
       }
     ]
   },
   "AIPolaroidTemplatesPage": {
-    "title": "AI 宝丽来模板",
-    "description": "精选模板包覆盖社区最热的故事场景。",
+    "title": "Sora2 工作流模板",
+    "description": "用可复用的 sora prompt、剧本与分发脚本快速开启活动。",
     "hero": {
-      "title": "懂你创作语言的模板库",
-      "description": "从明星签售到复古旅行日志，每个模板组合都包含提示词、边框与字体，开箱即用。",
+      "title": "为发布效率打造的模板包",
+      "description": "每个模板都结合 prompt、运动线索与自动化流程，让团队重复使用成功经验。",
       "primaryCta": "浏览模板"
     },
     "sections": [
       {
-        "title": "你将获得",
+        "title": "包含内容",
         "body": [
-          "针对 Gemini Nano Banana、Midjourney 与定制 LoRA 调校的提示词配方。",
-          "成套的边框框线、字幕、贴纸与手写字体，轻松完成同一视觉语调。"
+          "带有叙事结构、时间线标记与合规护栏的 sora prompt 配方。",
+          "针对不同渠道的导出设置、字幕预设与自动化脚本。"
         ]
       },
       {
-        "title": "人气合集",
+        "title": "热门集合",
         "body": [
-          "偶像自拍棚 — 打造可信的签名合影时刻。",
-          "重逢疗愈系 — 暖调低对比的设置，适合拥抱童年自己或远距离家人。",
-          "Runway Archives — 高时尚姿态、色差特效与杂志标题排版。"
+          "发布倒计时 —— 三幕结构结合产品镜头、数据面板与 CTA 强调。",
+          "粉丝聚光灯 —— 适合社区活动与社媒惊喜的互动章节。",
+          "高管简报 —— 配合指标提示的旁白故事板与可本地化的素材包。"
         ]
       }
     ]
   },
   "AIVintagePhotoPage": {
-    "title": "AI 复古照片效果",
-    "description": "用现代 AI 工具重现经典胶片氛围。",
+    "title": "Sora2 实时预览",
+    "description": "在最终渲染前实时调试光线、运动与机位路径。",
     "hero": {
-      "title": "让数字照片秒变经典收藏",
-      "description": "结合 Nano Banana 的精准建模与手工 LUT、灰尘颗粒、漏光效果，呈现可信的胶片质感。",
-      "primaryCta": "体验复古模式"
+      "title": "实时预览电影化世界",
+      "description": "在 Sora2 中随时切换灯光方案、模拟环境变化并确认镜头编排。",
+      "primaryCta": "体验实时预览"
     },
     "sections": [
       {
-        "title": "胶片科学，一步到位",
+        "title": "模拟控制",
         "body": [
-          "色彩配置覆盖 Kodak、Polaroid、Ilford 以及过期胶片调性。",
-          "自适应颗粒会根据导出尺寸调整，确保打印放大片依然细腻。"
+          "即时切换体积特效、镜头选择与动画缓动。",
+          "动态颗粒、光晕与环境预设与最终渲染保持一致。"
         ]
       },
       {
         "title": "适用场景",
         "body": [
-          "面向小红书、TikTok 的怀旧内容创作者。",
-          "婚礼/活动团队提供现场宝丽来墙体验。",
-          "品牌线下活动需要即时成像效果，又不携带模拟设备。"
+          "市场团队在投放前验证关键镜头与节奏。",
+          "工作室远程评审时实时批注并快速导出预览。",
+          "产品负责人在高层汇报前对齐动效、UI 与信息节奏。"
         ]
       }
     ]
   },
   "GalleryPage": {
-    "title": "AI 宝丽来作品集",
-    "description": "浏览创作者与品牌合作的精选案例。",
+    "title": "Sora2 发布画廊",
+    "description": "查看由 Sora2 工具站打造的活动案例。",
     "hero": {
-      "title": "看看 AI 宝丽来能做到什么",
-      "description": "每周更新热门风格、社区精选与适用于活动的版式灵感。",
-      "primaryCta": "提交你的作品"
+      "title": "看看团队如何使用 Sora2 发布",
+      "description": "从新品发布到粉丝彩蛋，浏览在 Sora2 自动化中打磨出的电影级故事。",
+      "primaryCta": "提交你的案例"
     },
     "sections": [
       {
-        "title": "精选案例",
+        "title": "精选活动",
         "body": [
-          "创作者聚焦：展示小红书平台表现突出的作品。",
-          "品牌合作：记录线下活动、快闪打印吧的真实部署。"
+          "创作者案例：展示由 Sora2 支撑的社媒发布与社区活动。",
+          "企业案例：涵盖多地区首发与高管沟通场景。"
         ]
       },
       {
         "title": "如何入选",
         "body": [
-          "在社交媒体使用 #aipolaroidphoto 标签，或通过应用内画廊提交。",
-          "分享使用的提示词与光线笔记，帮助其他创作者复刻灵感。"
+          "在社交媒体使用 #sora2video 标签或通过工具站提交影像。",
+          "附上 prompt 说明、时间线与表现数据，帮助更多团队学习你的经验。"
         ]
       }
     ]
   },
   "TutorialsPage": {
-    "title": "AI 宝丽来教程",
-    "description": "按步骤掌握完美故事化创作流程。",
+    "title": "Sora2 操作手册",
+    "description": "提供 Sora2 的策划、提示词与发布全流程教学。",
     "hero": {
-      "title": "全面掌握 AI 宝丽来工作流",
-      "description": "通过短教程学习如何捕捉、生成、微调并发布你的即时成像故事。",
-      "primaryCta": "查看教程"
+      "title": "掌握 Sora2 发布工作流",
+      "description": "学会如何把策略转化为 sora prompt、管理审批并完成多渠道发布。",
+      "primaryCta": "查看手册"
     },
     "sections": [
       {
         "title": "入门课程",
         "body": [
-          "选择适合 AI 渲染的原始照片与构图技巧。",
-          "利用灵感板与参考图指导模板选择。"
+          "按照目标、受众与交付信息结构化编写 sora prompt。",
+          "为团队配置工作区、角色与审批流程。"
         ]
       },
       {
         "title": "进阶技巧",
         "body": [
-          "针对霓虹夜景或白天闪光等不同光线，调整提示词策略。",
-          "结合 LoRA 风格与贴纸叠加，打造独一无二的品牌视觉。"
+          "把数据指标与表现反馈回 prompt 迭代。",
+          "使用工具站自动化本地化、字幕与资产分发。"
         ]
       }
     ]
@@ -1073,154 +1229,91 @@
     "title": "用户内容与版权政策",
     "description": "请仅上传拥有使用权的素材。我们会在 24 小时内处理下架请求，并提供安全的二次创作工具。",
     "body": [
-      "AI Polaroid Photo 允许你将个人照片与 AI 效果结合。仅上传你拥有使用或授权的图像、提示词与覆盖素材。",
-      "我们不会托管未经授权的明星肖像或商业 IP。如需下架，请发送邮件至 support@aipolaroidphoto.org，并附上相关链接与权属证明，我们会在 24 小时内回复。"
+      "Sora2 Video 允许你结合自有素材与 sora prompt 构建电影化故事。仅上传你拥有使用或授权的图像、提示词与覆盖素材。",
+      "我们不会托管未经授权的明星肖像或商业 IP。如需下架，请发送邮件至 support@sora2video.online，并附上相关链接与权属证明，我们会在 24 小时内回复。"
     ],
-    "backLink": "返回生成器 →",
+    "backLink": "返回 Sora Prompt 实验室 →",
     "termsLink": "查看服务条款 →"
   },
   "AiPolaroidEditor": {
-    "badge": "AI 宝丽来照片",
+    "badge": "Sora2 Video",
     "hero": {
-      "title": "打开编辑器，立即生成你的第一张 AI 宝丽来",
-      "description": "输入想要的氛围、人物或故事，右侧即可实时渲染带有边框的宝丽来成片。",
+      "title": "用 Sora2 视频智能掌控每一帧",
+      "description": "借助 Sora Prompt 实验室规划镜头、同步团队，并在一个控制台完成受控交付。",
       "features": [
         {
-          "title": "即时生成",
-          "description": "双引擎加速，10 秒内完成一张高分辨率宝丽来照片。"
+          "title": "实时迭代",
+          "description": "在迭代时同步预览光线、运动与音频节拍，及时锁定最佳镜头。"
         },
         {
-          "title": "真实质感",
-          "description": "模拟经典胶片、光晕与手写边框，还原即时成像的复古风味。"
+          "title": "受控协作",
+          "description": "为评审分配角色、记录批注，无需导出文件即可完成审批。"
         },
         {
-          "title": "自定义模版",
-          "description": "从旅行、婚礼到咖啡馆风格，随心切换你想要的故事氛围。"
+          "title": "渠道成片就绪",
+          "description": "直接在 Sora2 内导出母版、元数据与本地化包。"
         }
       ],
-      "featureLabel": "核心亮点",
-      "tags": ["宝丽来生成器", "复古质感", "即时分享"],
-      "tip": ""
+      "featureLabel": "团队选择 Sora2 的理由",
+      "tags": ["Sora prompt", "电影化自动化", "随时发布"]
     },
     "promptCard": {
-      "title": "宝丽来提示引擎",
-      "description": "描述你想要的场景，我们会立即为你冲洗出 AI 宝丽来。"
+      "title": "Sora prompt 作曲器",
+      "description": "把叙事节奏、物理线索与交付信息组合成可复用的 sora prompt。"
     },
     "tabs": {
-      "imageToImage": "图生图",
-      "textToImage": "文生图",
-      "textToImageDescription": "使用文生图模式，直接通过文字生成宝丽来照片。"
+      "imageToImage": "故事板到场景",
+      "textToImage": "Prompt 到场景",
+      "textToImageDescription": "在提示词中写入品牌、节奏与合规信息，Sora2 会即刻渲染电影级镜头。"
     },
     "providers": {
-      "title": "生成引擎",
+      "title": "渲染引擎",
       "siliconflow": {
         "name": "SiliconFlow",
-        "description": "品质均衡的模型，细节清晰、层次丰富。",
-        "badge": "质量优先"
+        "description": "高保真 sora 渲染，呈现细节与物理感。",
+        "badge": "高质"
       },
       "nanoBanana": {
         "name": "Nano Banana",
-        "description": "基于 Flux 的极速引擎，适合快速预览。",
-        "badge": "极速出图"
+        "description": "用于概念探索的快速迭代渲染。",
+        "badge": "提速"
       }
     },
     "promptEnhancements": {
-      "vintagePolaroid": "复古宝丽来胶片质感，暖色调、柔焦与自然光晕，底部附带手写文字。",
-      "retroFilm": "复古胶片风格，低饱和度、细腻颗粒与怀旧色彩。",
-      "modernMinimal": "极简棚拍光效，边缘锐利、构图干净、边框内敛。",
-      "artisticSketch": "手绘插画质感，铅笔描线、纸张纹理与手绘边框。"
+      "vintagePolaroid": "Sora2 电影级黄昏光效，带体积雾气、稳态手持机位，并附带社交发布字幕令牌。",
+      "retroFilm": "柔和长焦镜头配合滚动快门运动与霓虹高光，通过 Sora2 渲染完整呈现。",
+      "modernMinimal": "干净的产品特写，浮动排版、可控反射与由 Sora2 完成的精准调色。",
+      "artisticSketch": "铅笔速写风格，纸质纹理与动态线条，附加用于本地化的元数据标签。"
     },
     "batch": {
-      "title": "批量生成",
-      "cta": "升级",
-      "description": "开启批量模式即可一次生成多张宝丽来作品。"
+      "title": "批量交付",
+      "description": "生成受控的镜头版本、指派评审，并将审核通过的母版一键发布到各渠道。"
     },
-    "reference": {
-      "title": "参考照片",
-      "counter": "{current}/{max}",
-      "uploadTitle": "上传照片进行宝丽来风格重绘",
-      "uploadDescription": "支持 JPG 或 PNG，最大 50MB",
-      "uploadedAlt": "已上传的参考照片"
-    },
-    "form": {
-      "defaultPrompt": "Polaroid photo of a couple laughing under string lights, soft grain, handwritten caption \"forever summer\"",
-      "promptLabel": "提示词",
-      "promptPlaceholder": "描述宝丽来的氛围、光线、胶片感以及文字边框...",
-      "copyButton": "复制",
-      "generateButton": {
-        "loading": "冲洗中...",
-        "idle": "生成宝丽来"
-      },
-      "progressMessage": "正在冲洗宝丽来... {progress}%"
-    },
-    "gallery": {
-      "title": "AI 宝丽来图库",
-      "description": "完成的宝丽来作品会显示在这里，包含边框与文字。",
-      "emptyTitle": "准备好冲洗下一张宝丽来了吗",
-      "emptyDescription": "描述你的故事，我们会为你生成一张专属的 AI 宝丽来。"
-    },
+    "defaultPrompt": "午夜雨夜中电动概念车穿梭街头，体积街灯、稳态摄影机路径，并附带适合多语言发布的字幕文件。",
+    "promptLabel": "Sora prompt",
     "templates": {
-      "title": "宝丽来胶片模版",
-      "description": "精选社区热爱的即时成像风格。",
-      "proLabel": "Pro",
-      "fallbackName": "自定义宝丽来",
-      "vintage": {
-        "name": "复古宝丽来",
-        "description": "经典即时成像的暖色胶片质感。"
-      },
-      "retro": {
-        "name": "复古胶卷",
-        "description": "70 年代胶片的颗粒与褪色效果。"
-      },
-      "modern": {
-        "name": "现代极简",
-        "description": "干净利落的现代棚拍风格。"
-      },
-      "artistic": {
-        "name": "艺术手绘",
-        "description": "带有纸张纹理的手绘插画风。"
-      }
-    },
-    "toast": {
-      "validation": {
-        "missingPrompt": {
-          "title": "请输入提示词",
-          "description": "先描述你想要的画面再开始生成。"
+      "title": "发布模板",
+      "description": "从 Sora2 的三种常用剧本开始，覆盖产品发布、粉丝彩蛋与企业沟通。",
+      "items": [
+        {
+          "name": "发布倒计时",
+          "description": "三幕结构结合产品镜头、数据面板与 CTA 强调。"
         },
-        "imageToImage": {
-          "title": "图生图功能开发中",
-          "description": "请暂时切换回文生图模式完成生成。"
+        {
+          "name": "粉丝聚光灯",
+          "description": "互动章节设计，适用于社群惊喜与内容共创。"
+        },
+        {
+          "name": "高管简报",
+          "description": "配合指标提示的旁白故事板与可本地化的素材包。"
         }
-      },
-      "success": {
-        "title": "生成完成",
-        "description": "新的宝丽来照片已经准备好啦。"
-      },
-      "error": {
-        "title": "生成失败",
-        "defaultDescription": "图片生成失败，请稍后再试。",
-        "emptyResult": "生成成功但未返回图片，请稍后重试。"
-      },
-      "copy": {
-        "successTitle": "提示词已复制",
-        "successDescription": "可以去其他地方继续使用这个描述。",
-        "errorTitle": "复制失败",
-        "errorDescription": "浏览器暂时无法复制，请手动复制。"
-      },
-      "share": {
-        "successTitle": "链接已复制",
-        "successDescription": "可以直接把图片链接分享给朋友。",
-        "errorTitle": "分享失败",
-        "errorDescription": "无法自动分享，请手动复制链接。"
-      },
-      "downloadError": {
-        "title": "下载失败",
-        "description": "暂时无法下载图片，请右键另存为。"
-      }
+      ]
     },
-    "share": {
-      "title": "AI 宝丽来照片",
-      "text": "快看看我刚冲洗出的 AI 宝丽来。"
+    "cta": {
+      "title": "准备好用 Sora2 指挥下一次发布了吗？",
+      "description": "把团队带入 Sora2 工具站，让每个镜头从 prompt 到交付都可追溯。",
+      "primary": "打开 Sora Prompt 实验室",
+      "secondary": "联系团队"
     }
   },
   "AiPolaroidVideo": {},

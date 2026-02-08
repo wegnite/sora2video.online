@@ -11,7 +11,7 @@ const SESSION_COOKIE_MAX_AGE = 60 * 60 * 24 * 30; // 30 days
 const ANONYMOUS_LIMIT = 2;
 const AUTHENTICATED_LIMIT = 2;
 
-export type UsageFeature = 'polaroid-image' | 'image-generation';
+export type UsageFeature = 'sora2-image' | 'image-generation';
 
 export type UsageLimitReason = 'ANONYMOUS_LIMIT_REACHED' | 'AUTH_LIMIT_REACHED';
 

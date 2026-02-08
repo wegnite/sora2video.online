@@ -53,7 +53,7 @@ describe('generateKlingVideo', () => {
     vi.stubGlobal('fetch', fetchMock);
 
     const result = await generateKlingVideo({
-      prompt: 'kinetic typography polaroid',
+      prompt: 'kinetic typography sora2 cinematic card',
       aspectRatio: '16:9',
       duration: 5,
       pollIntervalMs: 1,

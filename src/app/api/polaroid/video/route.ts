@@ -81,7 +81,7 @@ export async function POST(request: NextRequest) {
       { status: 400 }
     );
   } catch (error) {
-    console.error('[polaroid-video] Failed to generate video', error);
+    console.error('[sora2-video] Failed to generate video', error);
     const message =
       error instanceof Error
         ? error.message

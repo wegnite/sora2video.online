@@ -1,8 +1,8 @@
 # 🚀 Google Analytics 自动化配置 SOP
 
 ## 当前项目信息
-- **项目名称**: AI Polaroid Photo  
-- **网站 URL**: https://aipolaroidphoto.org
+- **项目名称**: Sora2 Video  
+- **网站 URL**: https://sora2video.online
 - **Google Cloud 项目**: aipolariodphoto (ID: 415148337851)
 - **时区**: Asia/Shanghai
 - **货币**: USD
@@ -102,8 +102,8 @@ Error: 403 The caller does not have permission
 ```
 🚀 开始设置 Google Analytics...
 ✓ 找到 1 个账户
-✓ 媒体资源创建成功: AI Polaroid Photo
-✓ 数据流创建成功: AI Polaroid Photo - Web Stream
+✓ 媒体资源创建成功: Sora2 Video
+✓ 数据流创建成功: Sora2 Video - Web Stream
 测量 ID: G-XXXXXXXXXX
 ✓ 配置已保存到 .env.local
 
@@ -111,8 +111,8 @@ Error: 403 The caller does not have permission
 
 配置信息:
   账户: accounts/123456789
-  媒体资源: AI Polaroid Photo
-  数据流: AI Polaroid Photo - Web Stream
+  媒体资源: Sora2 Video
+  数据流: Sora2 Video - Web Stream
   测量 ID: G-XXXXXXXXXX
 ```
 

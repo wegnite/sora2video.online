@@ -53,7 +53,10 @@ const ORBS = [
   },
 ] as const;
 
-export function AuroraBackground({ className, ...props }: AuroraBackgroundProps) {
+export function AuroraBackground({
+  className,
+  ...props
+}: AuroraBackgroundProps) {
   return (
     <div
       aria-hidden

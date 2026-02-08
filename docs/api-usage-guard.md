@@ -17,7 +17,7 @@
 
 ## 免费配额 / 防滥用设计
 
-- **匿名访客**：无需登录即可调用图像类 API（`/api/polaroid/generate`、`/api/generate-images`）最多 2 次。
+- **匿名访客**：无需登录即可调用 Sora2 图像 API（`/api/polaroid/generate`、`/api/generate-images`）最多 2 次。
 - **已登录用户**：在上述 2 次基础上，可额外获得 2 次（总共 4 次）免费调用。
 - **超额处理**：超过阈值后 API 返回 `402`，前端会弹出提示并引导至定价页。
 

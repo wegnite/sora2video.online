@@ -52,6 +52,10 @@ export default async function LocaleLayout({
       style={{ colorScheme: 'dark' }}
     >
       <head>
+        <meta
+          name="naver-site-verification"
+          content="32c9393d5bc4a6afae2867d03b2e1b981abd51f2"
+        />
         <AffonsoScript />
         <PromotekitScript />
         <Script

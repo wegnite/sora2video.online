@@ -22,7 +22,7 @@ export async function POST(request: NextRequest) {
     });
     const usage = await enforceUsageLimit({
       request,
-      feature: 'polaroid-image',
+      feature: 'sora2-image',
       userId: session?.user?.id,
     });
 
@@ -149,7 +149,7 @@ export async function POST(request: NextRequest) {
       { status: 400 }
     );
   } catch (error) {
-    console.error('[polaroid-generate] Failed to generate image', error);
+    console.error('[sora2-generate] Failed to generate image', error);
 
     const status =
       typeof error === 'object' && error !== null && 'status' in error

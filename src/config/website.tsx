@@ -5,7 +5,7 @@ import type { WebsiteConfig } from '@/types';
  * website config, without translations
  *
  * docs:
- * https://aipolaroidphoto.org/docs/config/website
+ * https://sora2video.online/docs/config/website
  */
 export const websiteConfig: WebsiteConfig = {
   ui: {
@@ -25,13 +25,13 @@ export const websiteConfig: WebsiteConfig = {
       logoDark: '/logo-dark.png',
     },
     social: {
-      github: 'https://github.com/aipolaroidphoto',
-      twitter: 'https://twitter.com/aipolaroidphoto',
-      blueSky: 'https://bsky.app/profile/aipolaroidphoto.org',
-      discord: 'https://discord.gg/aipolaroidphoto',
-      mastodon: 'https://mastodon.social/@aipolaroidphoto',
-      linkedin: 'https://linkedin.com/company/aipolaroidphoto',
-      youtube: 'https://youtube.com/@aipolaroidphoto',
+      github: 'https://sora2video.online',
+      twitter: 'https://twitter.com/sora2video',
+      blueSky: 'https://bsky.app/profile/sora2video.online',
+      discord: 'https://discord.gg/sora2video',
+      mastodon: 'https://mastodon.social/@sora2video',
+      linkedin: 'https://linkedin.com/company/sora2video',
+      youtube: 'https://youtube.com/@sora2video',
     },
   },
   features: {
@@ -78,8 +78,8 @@ export const websiteConfig: WebsiteConfig = {
   },
   mail: {
     provider: 'resend',
-    fromEmail: 'AI Polaroid Photo <support@aipolaroidphoto.org>',
-    supportEmail: 'AI Polaroid Photo <support@aipolaroidphoto.org>',
+    fromEmail: 'Sora2 Video <support@sora2video.online>',
+    supportEmail: 'Sora2 Video <support@sora2video.online>',
   },
   newsletter: {
     enable: true,

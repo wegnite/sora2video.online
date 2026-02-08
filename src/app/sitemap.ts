@@ -9,7 +9,7 @@ import { getBaseUrl } from '../lib/urls/urls';
 type Href = Parameters<typeof getLocalePathname>[0]['href'];
 
 /**
- * Static routes prioritized for AI Polaroid Photo
+ * Static routes prioritized for Sora2 Video
  */
 const staticRoutes = [
   '/',
@@ -82,7 +82,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   );
 
   // Blog routes temporarily disabled to avoid 404 pages in sitemap
-  // TODO: Re-enable when blog content is ready for AI Polaroid Photo
+  // TODO: Re-enable when blog content is ready for Sora2 Video
   /*
   if (websiteConfig.blog.enable) {
     // add categories
@@ -171,7 +171,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   */
 
   // Docs routes temporarily disabled to avoid 404 pages in sitemap
-  // TODO: Re-enable when docs content is relevant for AI Polaroid Photo
+  // TODO: Re-enable when docs content is relevant for Sora2 Video
   /*
   if (websiteConfig.docs.enable) {
     const docsParams = source.generateParams();

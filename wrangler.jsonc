@@ -5,7 +5,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "main": ".open-next/worker.js",
-  "name": "aipolaroidphoto-org",
+  "name": "sora2video-online",
   "compatibility_date": "2024-12-30",
   "compatibility_flags": [
     // Enable Node.js API
@@ -66,9 +66,9 @@
    * https://developers.cloudflare.com/workers/wrangler/configuration/#environment-variables
    */
   "vars": {
-    "NEXT_PUBLIC_BASE_URL": "https://aipolaroidphoto.org",
-    "NEXT_URL": "https://aipolaroidphoto.org",
-    "VERCEL_URL": "aipolaroidphoto.org",
+    "NEXT_PUBLIC_BASE_URL": "https://sora2video.online",
+    "NEXT_URL": "https://sora2video.online",
+    "VERCEL_URL": "sora2video.online",
     "DISABLE_IMAGE_OPTIMIZATION": "true",
     "NEXT_PUBLIC_DEMO_WEBSITE": "false",
     "NEXT_PUBLIC_STRIPE_PRICE_PRO_MONTHLY": "price_1S8xfH4TOkObXtRCZ0uPTHyE",
@@ -88,7 +88,7 @@
   "r2_buckets": [
     {
       "binding": "NEXT_INC_CACHE_R2_BUCKET",
-      "bucket_name": "aipolaroidphoto-cache"
+      "bucket_name": "sora2video-cache"
     }
   ]
 }

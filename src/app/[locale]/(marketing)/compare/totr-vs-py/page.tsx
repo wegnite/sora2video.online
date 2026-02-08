@@ -17,9 +17,9 @@ export async function generateMetadata({
 }): Promise<Metadata | undefined> {
   const { locale } = await params;
   return constructMetadata({
-    title: 'AI Polaroid Photo — Vintage Photo Inspiration',
+    title: 'Sora2 Video — Launch Inspiration',
     description:
-      'Learn how to craft nostalgic AI polaroid stories with curated templates, prompt packs, and gallery inspiration.',
+      'Learn how to build cinematic Sora2 stories with curated templates, prompt packs, and showcase inspiration.',
     canonicalUrl: getUrlWithLocale(TARGET_PATH, locale),
     noIndex: true,
   });

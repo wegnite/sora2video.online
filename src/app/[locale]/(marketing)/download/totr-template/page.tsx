@@ -17,9 +17,9 @@ export async function generateMetadata({
 }): Promise<Metadata | undefined> {
   const { locale } = await params;
   return constructMetadata({
-    title: 'AI Polaroid Templates — Download Film-Inspired Frames',
+    title: 'Sora2 Templates — Download Workflow Blueprints',
     description:
-      'Browse AI polaroid template packs with film textures, captions, and ready-to-use overlays for your instant photo edits.',
+      'Browse Sora2 workflow templates with cinematic motion cues, automation macros, and launch-ready overlays.',
     canonicalUrl: getUrlWithLocale(TARGET_PATH, locale),
     noIndex: true,
   });

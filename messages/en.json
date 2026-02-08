@@ -1,8 +1,8 @@
 {
   "Metadata": {
-    "name": "AI Polaroid Photo",
-    "title": "AI Polaroid Photo Generator — Create Nostalgic AI-Generated Polaroid Style Photos",
-    "description": "Create stunning AI-generated polaroid-style photos with vintage filters, instant effects, and nostalgic aesthetics. Transform your images into beautiful polaroid memories."
+    "name": "Sora2 Video",
+    "title": "Sora2 Video Automation Platform — Launch Cinematic AI Campaigns Faster",
+    "description": "Sora2 Video unifies sora prompts, collaboration, and delivery so teams ship governed cinematic stories at launch speed."
   },
   "Common": {
     "login": "Log in",
@@ -142,13 +142,13 @@
     "backToHome": "Back to home"
   },
   "AboutPage": {
-    "title": "About",
-    "description": "Thwordle is a daily word puzzle game that challenges your vocabulary and deduction skills.",
-    "authorName": "Thwordle",
-    "authorBio": "Word Puzzle Game",
-    "introduction": "👋 Welcome to Thwordle! Challenge yourself with our daily word puzzle game that tests your vocabulary and problem-solving skills. If you have any questions or feedback, feel free to contact us.",
-    "talkWithMe": "Talk with me",
-    "followMe": "Follow me on X"
+    "title": "About Sora2 Video",
+    "description": "Sora2 Video is the cinematic automation platform for launch teams, combining sora prompts, collaboration, and governed delivery in one stack.",
+    "authorName": "Sora2 Video",
+    "authorBio": "Cinematic automation platform",
+    "introduction": "👋 Welcome to Sora2 Video. We help studios, marketers, and comms teams craft cinematic launches by unifying sora prompts, realtime reviews, and distribution macros inside one secure platform.",
+    "talkWithMe": "Talk with the Sora2 team",
+    "followMe": "Follow Sora2 on X"
   },
   "ChangelogPage": {
     "title": "Changelog",
@@ -157,11 +157,11 @@
   },
   "ContactPage": {
     "title": "Contact",
-    "description": "We'll help you find the right plan for your business",
-    "subtitle": "We'll help you find the right plan for your business",
+    "description": "We'll help you map the right Sora2 plan for your launch cadence",
+    "subtitle": "Talk with the Sora2 Video team",
     "form": {
-      "title": "Contact Us",
-      "description": "If you have any questions or feedback, please reach out to our team",
+      "title": "Contact Sora2",
+      "description": "Share your questions about onboarding, integrations, or pricing and the Sora2 team will reach out.",
       "name": "Name",
       "email": "Email",
       "message": "Message",
@@ -177,12 +177,12 @@
     }
   },
   "WaitlistPage": {
-    "title": "Waitlist",
-    "description": "Join our waitlist for the launch of our product",
-    "subtitle": "Join our waitlist for the launch of our product",
+    "title": "Sora2 Waitlist",
+    "description": "Join the waitlist to unlock upcoming Sora2 automation modules",
+    "subtitle": "Be first to access new launches",
     "form": {
-      "title": "Join Our Waitlist",
-      "description": "We will notify you when we launch our product",
+      "title": "Join the Sora2 Waitlist",
+      "description": "We will notify you as soon as new Sora2 capabilities are ready",
       "email": "Email",
       "subscribe": "Subscribe",
       "subscribing": "Subscribing...",
@@ -192,13 +192,12 @@
     }
   },
   "Newsletter": {
-    "title": "Newsletter",
-    "subtitle": "Join the community",
-    "description": "Subscribe to our newsletter for the latest news and updates",
+    "title": "Sora2 Dispatch",
+    "subtitle": "Join the launch community",
+    "description": "Subscribe for Sora2 product updates, playbooks, and campaign breakdowns",
     "form": {
       "email": "Email",
       "subscribe": "Subscribe",
-      "subscribing": "Subscribing...",
       "success": "Subscribed successfully",
       "fail": "Failed to subscribe",
       "emailValidation": "Please enter a valid email address"
@@ -298,87 +297,87 @@
   "Marketing": {
     "navbar": {
       "generator": {
-        "title": "Generator"
+        "title": "Sora Prompt Lab"
       },
       "templates": {
-        "title": "Templates"
+        "title": "Workflow Templates"
       },
       "vintage": {
-        "title": "Vintage Mode"
+        "title": "Realtime Preview"
       },
       "gallery": {
-        "title": "Gallery"
+        "title": "Launch Showcase"
       },
       "tutorials": {
-        "title": "Tutorials"
+        "title": "Playbooks"
       },
       "blog": {
-        "title": "Blog"
+        "title": "Insights"
       },
       "pages": {
-        "title": "Pages",
+        "title": "More",
         "items": {
           "tools": {
-            "title": "Curated Tools",
-            "description": "Prompt packs, integrations, and workflow guides for AI polaroids"
+            "title": "Tool Station",
+            "description": "Explore Sora2 automation modules, pricing, and rollout updates."
           },
           "wan22": {
-            "title": "wan 2.2 Playbook",
-            "description": "All-in-one research hub for wan 2.2 traffic tests"
+            "title": "Case Library",
+            "description": "Deep dives into Sora2 prompt strategies and campaign breakdowns."
           },
           "about": {
-            "title": "About",
-            "description": "Learn more about our team and product vision"
+            "title": "About Sora2 Video",
+            "description": "Understand the mission, team, and roadmap behind Sora2."
           },
           "contact": {
             "title": "Contact",
-            "description": "Partner with us or get support"
+            "description": "Talk with Sora2 specialists about onboarding or partnerships."
           },
           "waitlist": {
-            "title": "Waitlist",
-            "description": "Join the feature preview waitlist"
+            "title": "Join Waitlist",
+            "description": "Get early access to upcoming Sora2 automation features."
           },
           "roadmap": {
             "title": "Roadmap",
-            "description": "See upcoming generator releases"
+            "description": "Follow planned Sora2 releases and governance milestones."
           },
           "changelog": {
             "title": "Changelog",
-            "description": "Review the latest improvements"
+            "description": "Review the latest improvements to the Sora2 stack."
           },
           "cookiePolicy": {
             "title": "Cookie Policy",
-            "description": "Understand how we use cookies"
+            "description": "Review how Sora2 Video uses cookies and telemetry."
           },
           "privacyPolicy": {
             "title": "Privacy Policy",
-            "description": "How we protect your data"
+            "description": "Learn how Sora2 Video protects your data."
           },
           "termsOfService": {
             "title": "Terms of Service",
-            "description": "Read our platform terms"
+            "description": "Read the Sora2 platform terms."
           }
         }
       }
     },
     "footer": {
-      "tagline": "Create nostalgic AI polaroid photos in minutes",
+      "tagline": "Power every launch with Sora2 cinematic automation",
       "product": {
         "title": "Product",
         "items": {
-          "generator": "Generator",
-          "templates": "Templates",
-          "vintage": "Vintage Mode"
+          "generator": "Sora Prompt Lab",
+          "templates": "Workflow Templates",
+          "vintage": "Realtime Preview"
         }
       },
       "resources": {
         "title": "Resources",
         "items": {
-          "gallery": "Gallery",
-          "tutorials": "Tutorials",
-          "wan22": "wan 2.2 Playbook",
+          "gallery": "Launch Showcase",
+          "tutorials": "Playbooks",
+          "wan22": "Case Library",
           "docs": "Documentation",
-          "blog": "Blog"
+          "blog": "Insights"
         }
       },
       "company": {
@@ -870,26 +869,179 @@
     "description": "Play the daily word puzzle game with hints, statistics, and achievements"
   },
   "ToolsPage": {
-    "title": "Thwordle Game Tools",
-    "description": "Explore Thwordle tools: word lists, hints, statistics, and vocabulary builders.",
-    "cta": "Open",
-    "items": {
-      "wordGame": {
-        "title": "Daily Puzzle",
-        "description": "Play today's Thwordle challenge with 6 guesses"
-      },
-      "wordLists": {
-        "title": "Word Lists",
-        "description": "Curated word collections and vocabulary builders"
-      },
-      "statistics": {
-        "title": "Game Stats",
-        "description": "Track your progress, streaks, and achievements"
-      },
-      "hints": {
-        "title": "Hints & Tips",
-        "description": "Strategies and techniques to improve your gameplay"
-      }
+    "title": "Sora2 Tool Station",
+    "description": "Operate Sora2 automation workflows – from prompt design to multilingual delivery – inside one coordinated tool station.",
+    "hero": {
+      "badge": "sora2 automation",
+      "title": "Orchestrate every launch inside the Sora2 tool station",
+      "subtitle": "Connect generative control, collaboration, and delivery automation across the Sora2 stack so each sora prompt ships with governance baked in.",
+      "primary": "Launch the Sora2 video",
+      "secondary": "Book a Sora2 demo"
+    },
+    "clusters": {
+      "title": "Four Sora2 workstations",
+      "description": "Preview the modular tools that keep the Sora2 automation loop running end to end.",
+      "items": [
+        {
+          "title": "Generative core",
+          "description": "Design cinematic shots with Sora2’s physics-aware render engine.",
+          "bullets": [
+            "Compose structured sora prompts and reuse them as versioned blueprints.",
+            "Simulate lighting, motion paths, and audio beats before a single export."
+          ]
+        },
+        {
+          "title": "Story composer",
+          "description": "Sequence chapters, overlay metadata, and track approvals in real time.",
+          "bullets": [
+            "Drag timed sora prompts onto the timeline with language variants pre-baked.",
+            "Route legal, brand, and localisation input through locked review stages."
+          ]
+        },
+        {
+          "title": "Collaboration cockpit",
+          "description": "Coordinate teams with Sora2 permissions, annotations, and presets.",
+          "bullets": [
+            "Assign roles, secure assets, and archive discussion threads per release.",
+            "Trigger automation recipes that push assets to storage and social outposts."
+          ]
+        },
+        {
+          "title": "Insight grid",
+          "description": "Measure launch health with predictive signals native to Sora2.",
+          "bullets": [
+            "Blend watch-time, retention, and prompt level telemetry across channels.",
+            "Benchmark against previous sora2video.online launches to prioritise boosts."
+          ]
+        }
+      ]
+    },
+    "workflow": {
+      "title": "The Sora2 launch cadence",
+      "description": "Follow the governance-friendly path that transforms ideas into distribution-ready assets.",
+      "steps": [
+        {
+          "phase": "01",
+          "title": "Frame the universe",
+          "description": "Upload briefs, mood boards, brand guardrails, and data feeds so Sora2 understands the mission.",
+          "deliverable": "Audience-aligned creative map with prompt entry points"
+        },
+        {
+          "phase": "02",
+          "title": "Author sora prompts",
+          "description": "Draft structured prompts, set physics cues, and preview composition within the Sora2 sandbox.",
+          "deliverable": "Version-controlled sora prompt library"
+        },
+        {
+          "phase": "03",
+          "title": "Review in context",
+          "description": "Invite stakeholders to annotate frames, sign off scenes, and gate compliance without exporting files.",
+          "deliverable": "Approval log with governance audit trail"
+        },
+        {
+          "phase": "04",
+          "title": "Publish everywhere",
+          "description": "Deploy channel-ready masters, metadata, and caption packs directly from the Sora2 delivery console.",
+          "deliverable": "Localized masters with automated distribution macros"
+        }
+      ]
+    },
+    "modules": {
+      "title": "Deep-dive tools inside Sora2",
+      "description": "Each block is optimised for high-velocity teams scaling launches every week.",
+      "items": [
+        {
+          "title": "Prompt Lab",
+          "tag": "Generative",
+          "body": "Experiment with prompt fragments, rating matrices, and reusable shot libraries tuned for sora2 lighting intelligence.",
+          "metrics": [
+            "Templates cover 40+ cinematic archetypes",
+            "Shared prompt packs sync to team spaces instantly"
+          ]
+        },
+        {
+          "title": "Scene Composer",
+          "tag": "Editorial",
+          "body": "Assemble multiverse timelines, lock transitions, and preview camera rigs using Sora2’s real-time renderer.",
+          "metrics": [
+            "Adaptive timeline snaps to campaign milestones",
+            "Dual-view compares A/B prompt variants side by side"
+          ]
+        },
+        {
+          "title": "Collab Hub",
+          "tag": "Collaboration",
+          "body": "Sync comments, assign tasks, and templatise brand playbooks across regions with Sora2 permissions.",
+          "metrics": [
+            "Role presets for creative, legal, and partner teams",
+            "Exports include tracked decisions for every milestone"
+          ]
+        },
+        {
+          "title": "Insight Engine",
+          "tag": "Analytics",
+          "body": "Blend data from Sora2 campaigns, track engagement, and flag fresh boost opportunities automatically.",
+          "metrics": [
+            "Predictive scores update after each render",
+            "Integrations with BI warehouses and alerting suites"
+          ]
+        }
+      ]
+    },
+    "caseStudies": {
+      "title": "How teams thrive with Sora2",
+      "description": "From premieres to enterprise briefings, see how the tool station powers measurable outcomes.",
+      "items": [
+        {
+          "title": "Nebula Systems — Orbital reveal",
+          "industry": "Aerospace",
+          "summary": "Co-located creative and compliance in Sora2, shipping a multilingual investor broadcast overnight.",
+          "impact": "+91% watch completion, 8 subtitle packs generated automatically"
+        },
+        {
+          "title": "Prism Collective — Fandom drops",
+          "industry": "Entertainment",
+          "summary": "Used Sora2 prompt kits to push surprise lore chapters with zero late-night rendering marathons.",
+          "impact": "6 markets launched simultaneously, 3.4x share velocity"
+        },
+        {
+          "title": "Shift Mobility — Autonomous preview",
+          "industry": "Mobility",
+          "summary": "Synchronized Sora2 timelines with product telemetry, giving stakeholders real-time insight dashboards.",
+          "impact": "14-country rollout completed in two sprints"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Sora2 tool station FAQs",
+      "items": [
+        {
+          "question": "Do we need prompt engineering experts to start?",
+          "answer": "Sora2 ships with guided sora prompts, guardrails, and best-practice templates. Power users can still dive into advanced parameters whenever needed."
+        },
+        {
+          "question": "How does Sora2 handle team permissions?",
+          "answer": "Assign roles per workspace, lock sensitive scenes, and archive approval logs. Each action is tracked for governance across the Sora2 stack."
+        },
+        {
+          "question": "What payment options are available?",
+          "answer": "Subscribe monthly or yearly, unlock lifetime access, or add usage with credit packs – all processed securely through Stripe within the Sora2 console."
+        },
+        {
+          "question": "Can we integrate analytics with existing BI tools?",
+          "answer": "Yes. Export telemetry from the Insight Engine via API or push directly into your BI warehouse to blend with campaign KPIs."
+        },
+        {
+          "question": "Is localisation managed automatically?",
+          "answer": "Sora2 localisation macros generate caption files, metadata, and visual variants per market so launches stay consistent globally."
+        }
+      ]
+    },
+    "ctaSection": {
+      "title": "Ready to scale launches with Sora2?",
+      "description": "Spin up your first project on sora2video.online, then graduate to collaborative plans when your team is ready.",
+      "primary": "Start building with Sora2",
+      "secondary": "Talk to our team"
     }
   },
   "AIChatPage": {
@@ -905,166 +1057,173 @@
     "description": "MkSaaS lets you make AI SaaS in days, simply and effortlessly"
   },
   "AIPolaroidPage": {
-    "title": "AI Polaroid Photo",
-    "description": "Everything you need to generate nostalgic instant photos online.",
+    "title": "Sora2 Platform Overview",
+    "description": "See how Sora2 connects prompts, collaboration, and delivery into a governed launch system.",
     "hero": {
-      "title": "Design your AI polaroid experience",
-      "description": "Build moodboards, manage prompt packs, and publish galleries that turn AI outputs into real stories.",
-      "primaryCta": "Launch Generator",
-      "secondaryCta": "View Templates"
+      "title": "Build your launch universe with Sora2",
+      "description": "Sora2 Video orchestrates cinematic automation, combining sora prompts, realtime review, and distribution macros so every campaign ships consistently.",
+      "primaryCta": "Open Sora Prompt Lab",
+      "secondaryCta": "Review workflow templates"
     },
     "sections": [
       {
-        "title": "Core capabilities",
+        "title": "Connected launch control",
         "body": [
-          "Auto-detect lighting and faces to keep results natural while adding authentic film glow.",
-          "Save favorite looks as reusable collections for events, fandoms, or clients."
+          "Author sora prompts, manage assets, and preview scenes in one console with live guardrails.",
+          "Role-based workspaces keep creative, marketing, and legal aligned without juggling files."
         ]
       },
       {
-        "title": "Built for teams and creators",
+        "title": "Governance-ready workflows",
         "body": [
-          "Collaborate with editors through shared folders and approval workflows.",
-          "Track performance metrics like saves, exports, and social share rate."
+          "Approval stages capture annotations, version history, and compliance sign-off for every shot.",
+          "Localization macros produce caption packs, metadata, and territory variants automatically."
+        ]
+      },
+      {
+        "title": "Intelligence at every stage",
+        "body": [
+          "Insight dashboards surface engagement forecasts, retention scores, and optimisation cues as you iterate.",
+          "Benchmark new launches against previous Sora2 campaigns to prioritize boosts and media spend."
         ]
       }
     ],
     "cta": {
-      "title": "Start creating AI polaroids today",
-      "primary": "Get Started",
-      "secondary": "Request demo"
+      "title": "Ready to orchestrate with Sora2?",
+      "primary": "Start in Sora Prompt Lab",
+      "secondary": "Talk to the Sora2 team"
     }
   },
   "AIPolaroidGeneratorPage": {
-    "title": "AI Polaroid Generator",
-    "description": "A deep dive into the generator workspace and controls.",
+    "title": "Sora Prompt Lab",
+    "description": "Design, test, and ship sora prompts in a single governed workspace.",
     "hero": {
-      "title": "Generate cinematic polaroids without guesswork",
-      "description": "Experience live previews, guided prompts, and Gemini-powered rendering tuned for instant film aesthetics.",
+      "title": "Compose cinematic prompts with confidence",
+      "description": "Preview lighting, motion, and audio beats while Sora2 tracks governance, metadata, and delivery outputs.",
       "primaryCta": "Open workspace"
     },
     "sections": [
       {
         "title": "Workspace highlights",
         "body": [
-          "Side-by-side variations render in seconds so you can compare lighting and mood instantly.",
-          "Adjust color grade, border width, caption overlays, and grain strength without leaving the canvas."
+          "Compare prompt variants side by side with synchronized camera paths and lighting changes.",
+          "Lock brand palettes, typography, and caption tokens so every rendition stays on brief."
         ]
       },
       {
         "title": "Advanced controls",
         "body": [
-          "Prompt composer merges your keywords with camera metadata and film stocks like Kodak Portra or Fuji Instax.",
-          "Batch mode lets you produce up to 20 consistent shots for albums, campaigns, or merch drops."
+          "Structure prompts with context, physics cues, and delivery tokens using guided schema panels.",
+          "Batch generation produces governed renditions for chapters, ad sets, or region-specific edits."
         ]
       },
       {
-        "title": "Output formats",
+        "title": "Delivery outputs",
         "body": [
-          "Square 1:1 for feed posts, vertical 9:16 for Stories and Reels, and 3×4 inch 300 DPI for physical prints.",
-          "Export layered files with transparent borders when you need custom layouts in Figma or Canva."
+          "Export cinematic masters in 16:9, 9:16, and 1:1 along with localization macros and metadata.",
+          "Push approved scenes directly into the Tool Station, asset library, or downstream channels."
         ]
       }
     ]
   },
   "AIPolaroidTemplatesPage": {
-    "title": "AI Polaroid Templates",
-    "description": "Curated template packs inspired by the community's favorite storytelling moments.",
+    "title": "Sora2 Workflow Templates",
+    "description": "Kickstart campaigns with reusable sora prompts, playbooks, and delivery macros.",
     "hero": {
-      "title": "Template packs that speak your language",
-      "description": "From celeb meetups to retro travel logs, each pack blends prompts, overlays, and typography for instant results.",
+      "title": "Template packs built for launch velocity",
+      "description": "Each pack blends sora prompts, motion cues, and automation recipes so teams reuse winning blueprints.",
       "primaryCta": "Browse packs"
     },
     "sections": [
       {
-        "title": "What you get",
+        "title": "What's included",
         "body": [
-          "Prompt recipes tuned for Gemini Nano Banana, Midjourney, and custom LoRA styles.",
-          "Matching border frames, captions, stickers, and handwriting fonts for cohesive storytelling."
+          "Structured sora prompt recipes with narrative arcs, timeline markers, and compliance guardrails.",
+          "Channel-specific exports, caption presets, and automation macros ready for distribution."
         ]
       },
       {
         "title": "Popular collections",
         "body": [
-          "Celeb Selfie Studio — designed for fans who want a believable autograph moment.",
-          "Reunion Therapy — warm, low-contrast presets ideal for hugging your younger self or long-distance family.",
-          "Runway Archives — high-fashion poses, chromatic aberration, and magazine-style typography."
+          "Launch Countdown — three-act reveal with hero shots, scoreboard overlays, and CTA bursts.",
+          "Fandom Spotlight — interactive chapters tailored for community drops and social reveals.",
+          "Executive Briefing — narration synced to metric callouts and localization-ready slides."
         ]
       }
     ]
   },
   "AIVintagePhotoPage": {
-    "title": "AI Vintage Photo Effects",
-    "description": "Recreate classic film moods with modern AI tooling.",
+    "title": "Sora2 Realtime Preview",
+    "description": "Scrub through lighting, motion, and camera paths before committing renders.",
     "hero": {
-      "title": "Turn digital shots into timeless vintage keepsakes",
-      "description": "Mix Nano Banana's precision with handcrafted LUTs, dust overlays, and light leaks for believable film outputs.",
-      "primaryCta": "Try vintage mode"
+      "title": "Preview cinematic worlds in realtime",
+      "description": "Switch between lighting setups, simulate environmental changes, and validate choreography live inside Sora2.",
+      "primaryCta": "Try realtime preview"
     },
     "sections": [
       {
-        "title": "Film science, simplified",
+        "title": "Simulation controls",
         "body": [
-          "Color science profiles emulate Kodak, Polaroid, Ilford, and expired film palettes.",
-          "Adaptive grain scales to your export size so textures stay sharp when printed."
+          "Toggle volumetric effects, lens choices, and animation easing with instant playback.",
+          "Dynamic grain, flares, and environment presets match the final render pipeline."
         ]
       },
       {
-        "title": "Use cases",
+        "title": "Launch use cases",
         "body": [
-          "Content creators producing nostalgia content for Xiaohongshu and TikTok.",
-          "Wedding and event teams offering same-day polaroid wall experiences.",
-          "Brand activations that need on-location instant prints without analog gear."
+          "Marketing teams validate hero beats before final render and media spend.",
+          "Studios coordinate remote reviews with real-time annotations and capture exports instantly.",
+          "Product leaders align motion, UI overlays, and messaging prior to executive reviews."
         ]
       }
     ]
   },
   "GalleryPage": {
-    "title": "AI Polaroid Gallery",
-    "description": "Explore curated examples generated by creators and brand partners.",
+    "title": "Sora2 Launch Showcase",
+    "description": "Explore campaigns shaped by the Sora2 tool station.",
     "hero": {
-      "title": "See what's possible with AI polaroids",
-      "description": "Discover trending looks, community spotlights, and campaign-ready layouts updated every week.",
-      "primaryCta": "Submit your set"
+      "title": "See how teams launch with Sora2",
+      "description": "From product reveals to fandom drops, review cinematic stories refined through Sora2 automation.",
+      "primaryCta": "Submit your launch"
     },
     "sections": [
       {
-        "title": "Featured showcases",
+        "title": "Featured campaigns",
         "body": [
-          "Creator spotlights highlighting top-performing Xiaohongshu posts.",
-          "Brand collaborations featuring event activations and pop-up print bars."
+          "Creator spotlights highlighting Sora2-powered social launches and community drops.",
+          "Enterprise case studies covering multi-region premieres and executive briefings."
         ]
       },
       {
-        "title": "How to get featured",
+        "title": "How to be featured",
         "body": [
-          "Tag #aipolaroidphoto on social or submit via the in-app gallery uploader.",
-          "Share behind-the-scenes prompts and lighting notes to help others recreate the look."
+          "Share your launch with #sora2video or submit reels via the Tool Station.",
+          "Include prompt notes, timelines, and performance metrics so others can learn from your approach."
         ]
       }
     ]
   },
   "TutorialsPage": {
-    "title": "AI Polaroid Tutorials",
-    "description": "Step-by-step guides for crafting the perfect AI polaroid story.",
+    "title": "Sora2 Playbooks",
+    "description": "Step-by-step guides for planning, prompting, and launching with Sora2.",
     "hero": {
-      "title": "Master the AI polaroid workflow",
-      "description": "Follow quick tutorials to capture, generate, refine, and publish your instant photo narratives.",
-      "primaryCta": "Watch tutorials"
+      "title": "Master the Sora2 launch workflow",
+      "description": "Learn how to translate strategy into sora prompts, govern approvals, and publish across channels.",
+      "primaryCta": "View playbooks"
     },
     "sections": [
       {
         "title": "Starter lessons",
         "body": [
-          "Picking the right source photo and framing for AI rendering.",
-          "Using mood boards and references to guide template selection."
+          "Structure sora prompts with objectives, audience cues, and delivery tokens.",
+          "Configure workspaces, roles, and approval paths for your launch teams."
         ]
       },
       {
         "title": "Advanced techniques",
         "body": [
-          "Editing prompts for different lighting scenarios like neon nights or daylight flash.",
-          "Combining LoRA styles with overlays to build a signature brand aesthetic."
+          "Blend telemetry and performance insights back into prompt iterations.",
+          "Automate localization, caption packs, and asset distribution using Tool Station macros."
         ]
       }
     ]
@@ -1073,153 +1232,91 @@
     "title": "UGC & Copyright Policy",
     "description": "Creators may upload only media they have rights to use. We review takedown requests within 24 hours and provide safe remix tools.",
     "body": [
-      "AI Polaroid Photo lets you combine your own photos with AI-generated effects. Only upload images, prompts, and overlays you have permission to use.",
-      "We do not host unlicensed celebrity likenesses or commercial IP. For takedown requests, email support@aipolaroidphoto.org with relevant URLs and proof of ownership. We respond within 24 hours."
+      "Sora2 Video lets you orchestrate cinematic stories with your own assets and sora prompts. Only upload media, prompts, and overlays you have permission to use.",
+      "We do not host unlicensed celebrity likenesses or commercial IP. For takedown requests, email support@sora2video.online with relevant URLs and proof of ownership. We respond within 24 hours."
     ],
-    "backLink": "Back to generator →",
+    "backLink": "Back to Sora Prompt Lab →",
     "termsLink": "Review Terms of Service →"
   },
   "AiPolaroidEditor": {
-    "badge": "AI Polaroid Photo",
+    "badge": "Sora2 Video",
     "hero": {
-      "title": "Launch the editor and generate your first AI polaroid instantly",
-      "description": "Describe the mood, people, or story and the right column renders a border-ready polaroid in real time.",
+      "title": "Direct every frame with Sora2 video intelligence",
+      "description": "Use the Sora Prompt Lab to stage cinematic shots, sync teams, and deliver governed masters from one console.",
       "features": [
         {
-          "title": "Instant results",
-          "description": "Dual rendering engines deliver a high-resolution polaroid in under ten seconds."
+          "title": "Realtime iteration",
+          "description": "Preview lighting, motion, and audio cues as you iterate with Sora2."
         },
         {
-          "title": "Authentic film texture",
-          "description": "Borders, captions, and light leaks recreate the look of true instant cameras."
+          "title": "Governed collaboration",
+          "description": "Assign reviewers, capture annotations, and lock approvals without exports."
         },
         {
-          "title": "Template presets",
-          "description": "Switch between travel, wedding, and cafe vibes to match your narrative."
+          "title": "Channel-ready delivery",
+          "description": "Export masters, metadata, and localization packs directly from Sora2."
         }
       ],
-      "featureLabel": "Why creators love it",
-      "tags": ["Polaroid generator", "Vintage vibe", "Instant sharing"]
+      "featureLabel": "Why teams standardize on Sora2",
+      "tags": ["Sora prompts", "Cinematic automation", "Launch ready"]
     },
     "promptCard": {
-      "title": "Polaroid prompt engine",
-      "description": "Describe the scene and we will develop the AI polaroid for you instantly."
+      "title": "Sora prompt composer",
+      "description": "Combine narrative beats, physics cues, and delivery tokens into reusable sora prompts."
     },
     "tabs": {
-      "imageToImage": "Image to Image",
-      "textToImage": "Text to Image",
-      "textToImageDescription": "Use Text to Image mode to create polaroids directly from your description."
+      "imageToImage": "Storyboard to Scene",
+      "textToImage": "Prompt to Scene",
+      "textToImageDescription": "Author sora prompts with brand, timing, and compliance cues, then render cinematic shots instantly."
     },
     "providers": {
-      "title": "Generation engines",
+      "title": "Render engines",
       "siliconflow": {
         "name": "SiliconFlow",
-        "description": "Balanced quality model for crisp, detailed polaroids.",
-        "badge": "Quality focused"
+        "description": "High fidelity sora renders with physics-aware detail.",
+        "badge": "Quality"
       },
       "nanoBanana": {
         "name": "Nano Banana",
-        "description": "Flux-based engine tuned for lightning-fast previews.",
-        "badge": "Speed boost"
+        "description": "Rapid iterations for concept exploration.",
+        "badge": "Speed"
       }
     },
     "promptEnhancements": {
-      "vintagePolaroid": "Shot on vintage polaroid film with warm tones, soft focus, natural light leaks, and a handwritten caption along the bottom border.",
-      "retroFilm": "Captured like a retro film photo with subtle grain, low saturation, and a nostalgic color palette.",
-      "modernMinimal": "Minimalist studio lighting with crisp edges, clean composition, and a refined instant film border.",
-      "artisticSketch": "Rendered as an artistic sketch with pencil shading, textured paper, and a hand-drawn instant film border."
+      "vintagePolaroid": "Sora2 cinematic dusk lighting with volumetric haze, stabilized handheld camera, and caption tokens for social launch.",
+      "retroFilm": "Soft telephoto lensing with rolling shutter motion and ambient neon highlights captured through the Sora2 pipeline.",
+      "modernMinimal": "Clean product close-up with floating typography, controlled reflections, and precise color grading handled by Sora2.",
+      "artisticSketch": "Stylised graphite render with paper texture overlays, animated linework, and metadata tags for localization."
     },
     "batch": {
-      "title": "Batch processing",
-      "cta": "Upgrade",
-      "description": "Enable batch mode to develop multiple polaroid shots at once."
+      "title": "Batch delivery",
+      "description": "Generate governed shot variations, assign reviewers, and publish approved masters to every channel."
     },
-    "reference": {
-      "title": "Reference photo",
-      "counter": "{current}/{max}",
-      "uploadTitle": "Upload a photo to restyle as a polaroid",
-      "uploadDescription": "JPG or PNG up to 50MB",
-      "uploadedAlt": "Uploaded reference photo"
-    },
-    "form": {
-      "defaultPrompt": "Polaroid photo of a couple laughing under string lights, soft grain, handwritten caption \"forever summer\"",
-      "promptLabel": "Polaroid prompt",
-      "promptPlaceholder": "Describe the polaroid mood, lighting, film stock, and caption...",
-      "copyButton": "Copy",
-      "generateButton": {
-        "loading": "Developing...",
-        "idle": "Generate polaroid"
-      },
-      "progressMessage": "Developing your polaroid... {progress}%"
-    },
-    "gallery": {
-      "title": "AI polaroid gallery",
-      "description": "Your finished AI polaroid photos appear here with captions and film borders.",
-      "emptyTitle": "Ready to develop your next polaroid",
-      "emptyDescription": "Describe your story and we will craft an AI polaroid for you."
-    },
+    "defaultPrompt": "Cinematic reveal of an electric concept car weaving through midnight rain, volumetric street lights, steady cam path, localized captions ready for launch.",
+    "promptLabel": "Sora prompt",
     "templates": {
-      "title": "Polaroid film templates",
-      "description": "Choose from fan-favorite instant film presets.",
-      "proLabel": "Pro",
-      "fallbackName": "Custom polaroid",
-      "vintage": {
-        "name": "Vintage Polaroid",
-        "description": "Classic instant camera aesthetic with warm tones."
-      },
-      "retro": {
-        "name": "Retro film",
-        "description": "70s film photography with graceful grain and faded colors."
-      },
-      "modern": {
-        "name": "Modern minimal",
-        "description": "Clean, contemporary style with crisp edges."
-      },
-      "artistic": {
-        "name": "Artistic sketch",
-        "description": "Hand-drawn illustration style with textured paper."
-      }
-    },
-    "toast": {
-      "validation": {
-        "missingPrompt": {
-          "title": "Enter a prompt",
-          "description": "Describe the scene you want before generating."
+      "title": "Launch templates",
+      "description": "Start from Sora2 playbooks covering product reveals, fandom drops, and enterprise briefings.",
+      "items": [
+        {
+          "name": "Launch Countdown",
+          "description": "Three-scene arc blending product hero shots, UI overlays, and CTA macros."
         },
-        "imageToImage": {
-          "title": "Image-to-image coming soon",
-          "description": "Switch back to Text to Image mode to create your polaroid."
+        {
+          "name": "Fandom Spotlight",
+          "description": "Interactive chapters with call-and-response captions and social-ready crops."
+        },
+        {
+          "name": "Executive Briefing",
+          "description": "Narrated storyboard with compliance tags, metric callouts, and localization macros."
         }
-      },
-      "success": {
-        "title": "Generation complete",
-        "description": "Your new polaroid is ready."
-      },
-      "error": {
-        "title": "Generation failed",
-        "defaultDescription": "Failed to generate an image. Try again later.",
-        "emptyResult": "Generation succeeded but no image was returned. Please try again."
-      },
-      "copy": {
-        "successTitle": "Prompt copied",
-        "successDescription": "Use it anywhere you like.",
-        "errorTitle": "Copy failed",
-        "errorDescription": "Clipboard is unavailable. Copy it manually."
-      },
-      "share": {
-        "successTitle": "Link copied",
-        "successDescription": "Share the image link directly with friends.",
-        "errorTitle": "Share failed",
-        "errorDescription": "Cannot share automatically. Copy the link manually."
-      },
-      "downloadError": {
-        "title": "Download failed",
-        "description": "Unable to download the image right now. Try saving it manually."
-      }
+      ]
     },
-    "share": {
-      "title": "AI Polaroid Photo",
-      "text": "Check out this AI polaroid I just developed."
+    "cta": {
+      "title": "Ready to orchestrate your next launch?",
+      "description": "Bring your team into the Sora2 tool station and keep every scene governed from prompt to delivery.",
+      "primary": "Open Sora Prompt Lab",
+      "secondary": "Talk to the team"
     }
   },
   "AiPolaroidVideo": {},

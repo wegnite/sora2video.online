@@ -1,6 +1,6 @@
-# AI Polaroid Photo 模板
+# Sora2 Video 模板
 
-本仓库基于 MkSaaS 的 Next.js 模板，在此基础上扩展了 AI 图像/视频生成、支付计费、本地化、多语言文案以及 Cloudflare 部署脚本等功能。当前默认配置面向 **AI Polaroid Photo** 产品，但该代码库同时作为我们后续孵化新 SaaS 的起点，相比上游 MkSaaS 更贴近自有业务需求。
+本仓库基于 MkSaaS 的 Next.js 模板，在此基础上扩展了 AI 图像/视频生成、支付计费、本地化、多语言文案以及 Cloudflare 部署脚本等功能。当前默认配置面向 **Sora2 Video** 产品，但该代码库同时作为我们后续孵化新 SaaS 的起点，相比上游 MkSaaS 更贴近自有业务需求。
 
 > 文档默认语言为中文。只有在面向英文市场营销或确需多语言内容时，才保留英文说明。
 
@@ -33,7 +33,7 @@
 1. **分支与提交策略**
    - 默认直接在 `main` 分支迭代；如需临时分支仅用于实验，最终仍需合并回 `main`。
    - 由 AI 助手负责开发，无人工代码评审；因此每次提交必须自检到位。
-   - 提交信息遵循 Conventional Commits（如 `feat: add polaroid video presets`），便于后续追踪。
+   - 提交信息遵循 Conventional Commits（如 `feat: add sora2 prompt templates`），便于后续追踪。
    - 提交前务必执行 `git status` 和 `git diff`，确认仅包含本次改动。
 2. **功能实现要求**
    - 新增或修改功能需同时补充/更新单元测试或集成测试（Vitest 位于 `tests/`）。
@@ -57,16 +57,21 @@
 ## Cloudflare 部署 SOP
 1. 在安全渠道更新 `.env.production` 的真实值（公开变量统一使用 `NEXT_PUBLIC_` 前缀，其余视为机密），不要将该文件提交到版本库。
 2. 执行 `pnpm run cf:preview`，生成/更新 `.cloudflare/worker-vars.json`、`.cloudflare/worker-secrets.json`、`.cloudflare/wrangler.generated.json` 并检查内容。生成文件用于部署参考，不要纳入 Git（仓库已默认忽略 `.cloudflare/`）。
-3. 使用 `pnpm run deploy` 将最新构建与环境变量一并部署（内部会执行 OpenNext 构建与资产上传）。如仅需同步变量可运行 `pnpm run cf:deploy`。
+3. 使用  `pnpm run build` `pnpm run deploy` 将最新构建与环境变量一并部署（内部会执行 OpenNext 构建与资产上传）。如仅需同步变量可运行 `pnpm run cf:deploy`。
 4. 部署后验证：
    - `wrangler secret list --config .cloudflare/wrangler.generated.json`
    - `cat .cloudflare/worker-vars.json`
 5. 若 `.env.production` 删除了某个机密变量，需执行 `wrangler secret delete <NAME>` 以免 Worker 残留旧值。
+wrangler 可能没有正确登录，或者 API Token 已经过期/权限不足。
+
+解决方案：重新登录一次 wrangler。在你的终端里运行以下命令，它会打开浏览器让你重新授权：
+npx wrangler login
+登录成功后，再重新运行 pnpm run build 和 pnpm run deploy。
 
 ## 复制为新产品的注意事项
 - 更新域名、产品名称与元数据：
   - `src/config/website.tsx`、`messages/*.json`、`public/` 下的图片、`.env` 中的 URL。
-- 调整营销路由/内容：`src/app/[locale]/(marketing)/**` 中所有与 “AI Polaroid” 相关的文案、导航、链接都需替换。
+- 调整营销路由/内容：`src/app/[locale]/(marketing)/**` 中所有与 “Sora2” 相关的文案、导航、链接都需替换。
 - 复核 AI 功能模块：`src/app/api/polaroid/**`、`src/components/ai-tool/**`、`src/lib/ai/**`。如新项目无需相关功能，可重命名或拆除。
 - 重新配置定价与支付：`src/config/price-config.tsx`、`src/credits/**`，并同步 Stripe 中的价格 ID。
 - 更新 `content/docs` 的产品描述、教程、对外文案，确保与新站点一致。

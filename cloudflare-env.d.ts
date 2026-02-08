@@ -4,8 +4,8 @@
 // Runtime types generated with workerd@1.20250906.0 2024-12-30 global_fetch_strictly_public,nodejs_compat,nodejs_compat_populate_process_env
 declare namespace Cloudflare {
   interface Env {
-    NEXT_URL: 'https://aipolaroidphoto.org';
-    VERCEL_URL: 'aipolaroidphoto.org';
+    NEXT_URL: 'https://sora2video.online';
+    VERCEL_URL: 'sora2video.online';
     NEXT_PUBLIC_BASE_URL: string;
     DATABASE_URL: string;
     BETTER_AUTH_SECRET: string;
